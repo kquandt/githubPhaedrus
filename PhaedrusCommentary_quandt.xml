@@ -35,12 +35,12 @@
    <office:meta>
       <meta:initial-creator>Kenneth QUANDT</meta:initial-creator>
       <meta:creation-date>2012-08-24T11:25:47</meta:creation-date>
-      <dc:date>2014-10-27T16:51:27</dc:date>
+      <dc:date>2014-10-28T01:22:11</dc:date>
       <dc:creator>Kenneth QUANDT</dc:creator>
-      <meta:editing-duration>P83DT2H7M56S</meta:editing-duration>
-      <meta:editing-cycles>598</meta:editing-cycles>
+      <meta:editing-duration>P83DT2H9M17S</meta:editing-duration>
+      <meta:editing-cycles>599</meta:editing-cycles>
       <meta:generator>OpenOffice.org/3.3$Unix OpenOffice.org_project/330m20$Build-9567</meta:generator>
-      <meta:document-statistic meta:character-count="1209825" meta:image-count="0" meta:object-count="0"
+      <meta:document-statistic meta:character-count="1209823" meta:image-count="0" meta:object-count="0"
                                meta:page-count="269"
                                meta:paragraph-count="2758"
                                meta:table-count="0"
@@ -48,7 +48,7 @@
    </office:meta>
    <office:settings>
       <config:config-item-set config:name="ooo:view-settings">
-         <config:config-item config:name="ViewAreaTop" config:type="int">7641832</config:config-item>
+         <config:config-item config:name="ViewAreaTop" config:type="int">62884</config:config-item>
          <config:config-item config:name="ViewAreaLeft" config:type="int">2461</config:config-item>
          <config:config-item config:name="ViewAreaWidth" config:type="int">19182</config:config-item>
          <config:config-item config:name="ViewAreaHeight" config:type="int">10227</config:config-item>
@@ -57,12 +57,12 @@
          <config:config-item-map-indexed config:name="Views">
             <config:config-item-map-entry>
                <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-               <config:config-item config:name="ViewLeft" config:type="int">4269</config:config-item>
-               <config:config-item config:name="ViewTop" config:type="int">7642738</config:config-item>
+               <config:config-item config:name="ViewLeft" config:type="int">14088</config:config-item>
+               <config:config-item config:name="ViewTop" config:type="int">70637</config:config-item>
                <config:config-item config:name="VisibleLeft" config:type="int">2461</config:config-item>
-               <config:config-item config:name="VisibleTop" config:type="int">7641832</config:config-item>
+               <config:config-item config:name="VisibleTop" config:type="int">62884</config:config-item>
                <config:config-item config:name="VisibleRight" config:type="int">21641</config:config-item>
-               <config:config-item config:name="VisibleBottom" config:type="int">7652057</config:config-item>
+               <config:config-item config:name="VisibleBottom" config:type="int">73110</config:config-item>
                <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
                <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
                <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -2674,96 +2674,96 @@
             </style:tab-stops>
          </style:paragraph-properties>
       </style:style>
-      <style:style style:name="P266" style:family="paragraph"
-                   style:parent-style-name="Heading_20_3">
-         <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto"
-                                style:text-underline-color="font-color"/>
-      </style:style>
-      <style:style style:name="P267" style:family="paragraph"
-                   style:parent-style-name="Heading_20_1">
-         <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-         <style:text-properties fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
-      </style:style>
-      <style:style style:name="P268" style:family="paragraph"
-                   style:parent-style-name="Heading_20_1">
-         <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-      </style:style>
-      <style:style style:name="P269" style:family="paragraph"
-                   style:parent-style-name="Heading_20_1">
-         <style:paragraph-properties fo:line-height="150%" fo:text-align="center" style:justify-single-word="false"/>
-      </style:style>
-      <style:style style:name="P270" style:family="paragraph"
-                   style:parent-style-name="Heading_20_1">
-         <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
-      </style:style>
-      <style:style style:name="P271" style:family="paragraph"
-                   style:parent-style-name="Heading_20_1"
-                   style:master-page-name="Footnote">
-         <style:paragraph-properties style:page-number="auto"/>
-         <style:text-properties fo:color="#ff0000" fo:font-size="20pt" style:font-size-asian="20pt"
-                                style:font-size-complex="20pt"/>
-      </style:style>
-      <style:style style:name="P272" style:family="paragraph" style:parent-style-name="Standard"
+      <style:style style:name="P266" style:family="paragraph" style:parent-style-name="Standard"
                    style:list-style-name="L1">
          <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0.4984in"
                                      style:auto-text-indent="false"/>
          <style:text-properties fo:color="#000000" style:font-name="Gill Sans1"/>
       </style:style>
-      <style:style style:name="P273" style:family="paragraph" style:parent-style-name="Standard"
+      <style:style style:name="P267" style:family="paragraph" style:parent-style-name="Standard"
                    style:list-style-name="L4">
          <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0.4984in"
                                      style:auto-text-indent="false"/>
          <style:text-properties fo:color="#000000" style:font-name="Gill Sans1"/>
       </style:style>
-      <style:style style:name="P274" style:family="paragraph" style:parent-style-name="Standard"
+      <style:style style:name="P268" style:family="paragraph" style:parent-style-name="Standard"
                    style:list-style-name="L5">
          <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0.4984in"
                                      style:auto-text-indent="false"/>
          <style:text-properties fo:color="#000000" style:font-name="Gill Sans1"/>
       </style:style>
-      <style:style style:name="P275" style:family="paragraph" style:parent-style-name="Standard"
+      <style:style style:name="P269" style:family="paragraph" style:parent-style-name="Standard"
                    style:list-style-name="L6">
          <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0.4984in"
                                      style:auto-text-indent="false"/>
          <style:text-properties fo:color="#000000" style:font-name="Gill Sans1"/>
       </style:style>
-      <style:style style:name="P276" style:family="paragraph" style:parent-style-name="Standard"
+      <style:style style:name="P270" style:family="paragraph" style:parent-style-name="Standard"
                    style:list-style-name="L2">
          <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0.5in"
                                      style:auto-text-indent="false"/>
          <style:text-properties fo:color="#000000" style:font-name="Gill Sans1"/>
       </style:style>
-      <style:style style:name="P277" style:family="paragraph" style:parent-style-name="Standard"
+      <style:style style:name="P271" style:family="paragraph" style:parent-style-name="Standard"
                    style:list-style-name="L3">
          <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0.5in"
                                      style:auto-text-indent="false"/>
          <style:text-properties fo:color="#000000" style:font-name="Gill Sans1"/>
       </style:style>
-      <style:style style:name="P278" style:family="paragraph" style:parent-style-name="Standard"
+      <style:style style:name="P272" style:family="paragraph" style:parent-style-name="Standard"
                    style:list-style-name="L4">
          <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in"
                                      style:auto-text-indent="false"/>
          <style:text-properties fo:color="#000000" style:font-name="Gill Sans1"/>
       </style:style>
-      <style:style style:name="P279" style:family="paragraph" style:parent-style-name="Standard"
+      <style:style style:name="P273" style:family="paragraph" style:parent-style-name="Standard"
                    style:list-style-name="L5">
          <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in"
                                      style:auto-text-indent="false"/>
          <style:text-properties fo:color="#000000" style:font-name="Gill Sans1"/>
       </style:style>
-      <style:style style:name="P280" style:family="paragraph" style:parent-style-name="Standard"
+      <style:style style:name="P274" style:family="paragraph" style:parent-style-name="Standard"
                    style:list-style-name="L6">
          <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in"
                                      style:auto-text-indent="false"/>
          <style:text-properties fo:color="#000000" style:font-name="Gill Sans1"/>
       </style:style>
-      <style:style style:name="P281" style:family="paragraph" style:parent-style-name="Standard"
+      <style:style style:name="P275" style:family="paragraph" style:parent-style-name="Standard"
                    style:list-style-name="L7">
          <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0.4717in"
                                      style:auto-text-indent="false"/>
          <style:text-properties fo:color="#000000" style:font-name="Gill Sans1"
                                 style:text-underline-style="none"
                                 style:letter-kerning="false"/>
+      </style:style>
+      <style:style style:name="P276" style:family="paragraph"
+                   style:parent-style-name="Heading_20_1">
+         <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+         <style:text-properties fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
+      </style:style>
+      <style:style style:name="P277" style:family="paragraph"
+                   style:parent-style-name="Heading_20_1">
+         <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+      </style:style>
+      <style:style style:name="P278" style:family="paragraph"
+                   style:parent-style-name="Heading_20_1">
+         <style:paragraph-properties fo:line-height="150%" fo:text-align="center" style:justify-single-word="false"/>
+      </style:style>
+      <style:style style:name="P279" style:family="paragraph"
+                   style:parent-style-name="Heading_20_1">
+         <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+      </style:style>
+      <style:style style:name="P280" style:family="paragraph"
+                   style:parent-style-name="Heading_20_1"
+                   style:master-page-name="Footnote">
+         <style:paragraph-properties style:page-number="auto"/>
+         <style:text-properties fo:color="#ff0000" fo:font-size="20pt" style:font-size-asian="20pt"
+                                style:font-size-complex="20pt"/>
+      </style:style>
+      <style:style style:name="P281" style:family="paragraph"
+                   style:parent-style-name="Heading_20_3">
+         <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto"
+                                style:text-underline-color="font-color"/>
       </style:style>
       <style:style style:name="T1" style:family="text">
          <style:text-properties fo:font-size="9pt" fo:font-style="italic" style:font-size-asian="9pt"
@@ -3894,7 +3894,7 @@
                </text:span>
                <text:span text:style-name="Default_20_Paragraph_20_Font">
                   <text:span text:style-name="T2">
-                     <text:page-number text:select-page="current">269</text:page-number>
+                     <text:page-number text:select-page="current">3</text:page-number>
                   </text:span>
                </text:span>
             </text:p>
@@ -3909,16 +3909,16 @@
             <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
             <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
          </text:sequence-decls>
-         <text:h text:style-name="P271" text:outline-level="1"/>
-         <text:h text:style-name="P267" text:outline-level="1">THE PHAEDRUS OF PLATO</text:h>
+         <text:h text:style-name="P280" text:outline-level="1"/>
+         <text:h text:style-name="P276" text:outline-level="1">THE PHAEDRUS OF PLATO</text:h>
          <text:p text:style-name="P249">a Translation with Notes and Analysis by Kenneth Quandt</text:p>
          <text:p text:style-name="P3"/>
          <text:p text:style-name="P3"/>
          <text:p text:style-name="P3"/>
          <text:p text:style-name="P3"/>
          <text:p text:style-name="P3"/>
-         <text:h text:style-name="P268" text:outline-level="1"/>
-         <text:h text:style-name="P268" text:outline-level="1">Preface</text:h>
+         <text:h text:style-name="P277" text:outline-level="1"/>
+         <text:h text:style-name="P277" text:outline-level="1">Preface</text:h>
          <text:p text:style-name="P243"/>
          <text:p text:style-name="P243">
             <text:span text:style-name="T67">I present herewith a translation of Plato's </text:span>
@@ -3979,11 +3979,11 @@
          <text:p text:style-name="P244"/>
          <text:p text:style-name="P244">I have the great honor and pleasure of dedicating this work to Zoe Quandt and Ethan Brown on the occasion of their marriage at Santa Cruz, California, on 12 October 2014:</text:p>
          <text:p text:style-name="P244"/>
-         <text:p text:style-name="P246">μακάριον μὲν καὶ ὁμονοητικὸν τὸν ἑνθάδε βίον διαγοῖεν</text:p>
+         <text:p text:style-name="P246">μακάριον μὲν καὶ ὁμονοητικὸν τὸν ἐνθάδε βίον διαγοῖεν</text:p>
          <text:p text:style-name="P244"/>
          <text:p text:style-name="P244"/>
          <text:p text:style-name="P244"/>
-         <text:h text:style-name="P268" text:outline-level="1">Introduction</text:h>
+         <text:h text:style-name="P277" text:outline-level="1">Introduction</text:h>
          <text:p text:style-name="P244"/>
          <text:p text:style-name="P244">The dramatic substance of the <text:span text:style-name="T6">Phaedrus</text:span> can be ascertained by the direct evidence of the text if it is read with care. In the case of my study of Plato's <text:span text:style-name="T6">Republic</text:span>,<text:note text:id="ftn9" text:note-class="footnote">
                <text:note-citation>9</text:note-citation>
@@ -4158,7 +4158,7 @@
          <text:p text:style-name="P238"/>
          <text:p text:style-name="P12"/>
          <text:p text:style-name="P3"/>
-         <text:h text:style-name="P269" text:outline-level="1">Table of Contents</text:h>
+         <text:h text:style-name="P278" text:outline-level="1">Table of Contents</text:h>
          <text:p text:style-name="P265">Translation of Plato's <text:span text:style-name="T6">Phaedrus</text:span> with Notes<text:tab/>15-151<text:tab/>
             <text:tab/>
          </text:p>
@@ -5002,7 +5002,7 @@
                      <text:tab/> 
                      <text:s text:c="3"/>It is not the job of the commentator to paper over the vagueness of such expressions by guessing which possible meaning is actually meant (the task Verdenius took upon himself, because of which he could produce “notes” unaccompanied by an overall interpretation), but rather to acknowledge that the Greek leaves us confused. One of the virtues of Paul Ryan's recent commentary (Norman, 2012) is that he allows things to be unclear, ee.gg. <text:span text:style-name="T6">ad</text:span> 237A5 (<text:span text:style-name="T6">n.b</text:span>. <text:s/>“ambiguous at this point”), <text:span text:style-name="T7">ad </text:span>238C2, <text:span text:style-name="T6">ad</text:span> 241A4, <text:span text:style-name="T6">ad</text:span> 249E3-4. In the case of Lysias's speech, ambiguity is a positive device for leading the audience along, as we shall see. I have presented a chapter-by-chapter analysis of the method and structure of the speech, below.</text:p>
                </text:note-body>
-            </text:note> that I am not <text:soft-page-break/>in fact a person who loves<text:note text:id="ftn113" text:note-class="footnote">
+            </text:note> that I am not in fact a person who loves<text:note text:id="ftn113" text:note-class="footnote">
                <text:note-citation>113</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -5018,7 +5018,7 @@
                      <text:s/>
                      <text:span text:style-name="T9">ἐκείνοις </text:span>(A2) treats the lover as a member of a category or group (cf. shift to plural at 233A5) remote from the non-lover's mind, i.e. the sort of person he is not.</text:p>
                </text:note-body>
-            </text:note> they have a change of heart at a certain point in time as to whom they should benefit,<text:note text:id="ftn115" text:note-class="footnote">
+            </text:note> they have a change of heart at a certain point <text:soft-page-break/>in time as to whom they should benefit,<text:note text:id="ftn115" text:note-class="footnote">
                <text:note-citation>115</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -5079,7 +5079,7 @@
                      <text:s/>
                      <text:span text:style-name="T9">τὰς πρὸς τοὺς προσήκοντας διαφοράς αἰτιάσασθαι</text:span> (B4-5): Despite the spoon-feeding homoioteleuton of the three infinitives the diction is maximally abstract and relies on the audience to figure things out by comparing these three items to the three items above: the <text:span text:style-name="T9">πρόφασις</text:span> (an excuse for the lover's own bad behavior) is the total cost he has incurred (<text:span text:style-name="T9">κακῶς διέθεντο</text:span>, A7); <text:span text:style-name="T9">ὑπολογίζεσθαι</text:span> goes with the <text:span text:style-name="T9">πόνοι</text:span> he suffered (repeated from A8, varied with the derogatory plural and now deemed water under the bridge by the perfect participle); and this leaves <text:span text:style-name="T9">αἰτιάσαθαι</text:span>, varying the order, to designate a claim he can make (<text:span text:style-name="T9">αἰτία</text:span>) for reciprocation due to the second thing he had been “watching” (<text:span text:style-name="T9">σκοποῦσιν</text:span>, A7), the total gifts he has given (<text:span text:style-name="T9">ἃ πεποιήκασιν εὖ</text:span>, A8). We are left to reach for the explanation that the <text:span text:style-name="T9">διαφοράς</text:span> must designate complaints that he gave <text:span text:style-name="T6">more</text:span> than somebody else did (and <text:span text:style-name="T9">τοὺς προσήκοντας</text:span> would be his <text:span text:style-name="T6">rivals</text:span> who, he claims, gave less), or else the sentence means that the good deeds that he has done for the boy have made other<text:span text:style-name="T19"> beneficiaries </text:span>(<text:span text:style-name="T9">προήκοντας </text:span>as <text:span text:style-name="T6">family</text:span> or <text:span text:style-name="T6">clients</text:span>) angry at him so that the boy owes him something.</text:p>
                </text:note-body>
-            </text:note> Since all these evils have been shut out in the case of the non-lover the <text:soft-page-break/>only course of action open to him is openmindedly and eagerly to do whatever he thinks will please.<text:note text:id="ftn123" text:note-class="footnote">
+            </text:note> Since all these evils have been shut out in the case of the non-lover the only course of action open to him is openmindedly and eagerly to do whatever he thinks will please.<text:note text:id="ftn123" text:note-class="footnote">
                <text:note-citation>123</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -5099,7 +5099,7 @@
                      <text:span text:style-name="T24"> such as those adduced at 231E3-4 or 232B5ff. The lovers would not merely “say” that they are especially friendly to their beloveds – it would be a promise or a protestation in their mouths. On the other hand, an observer of the ardency of a lover would reasonably (but short-sightedly) imagine it will drive him to be a fast friend to his beloved.</text:span>
                   </text:p>
                </text:note-body>
-            </text:note> most particularly to take their beloveds under their wing as friends<text:note text:id="ftn125" text:note-class="footnote">
+            </text:note> most particularly to take their beloveds under their wing as <text:soft-page-break/>friends<text:note text:id="ftn125" text:note-class="footnote">
                <text:note-citation>125</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -5186,7 +5186,7 @@
                      <text:s/>
                      <text:span text:style-name="T9">τὸν βέλτιστον αἱροῖο</text:span> (D6-7): <text:span text:style-name="T9">αἱρεῖσθαι</text:span> and <text:span text:style-name="T9">βέλτιστον</text:span> connote deliberate choice about practical goals, the sorts of benefits exchanged in friendship. For <text:span text:style-name="T9">βέλτιστον</text:span> cf.<text:span text:style-name="T6">Alc</text:span>.II 144D, 145C; <text:span text:style-name="T6">Gorg</text:span>.463A, 501B; <text:span text:style-name="T6">Phdo</text:span>.97D, 99A; <text:span text:style-name="T6">Tim</text:span>.48A; Xen.<text:span text:style-name="T6">Cyrop</text:span>.5.1.8. The term will figure heavily in the heavily deliberative Second Speech (i.e., Socrates's First Speech)..</text:p>
                </text:note-body>
-            </text:note> your pickings would be slim; whereas if this criterion <text:soft-page-break/>were lifted<text:note text:id="ftn134" text:note-class="footnote">
+            </text:note> your pickings would be slim; whereas if this criterion were lifted<text:note text:id="ftn134" text:note-class="footnote">
                <text:note-citation>134</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -5208,7 +5208,7 @@
                      <text:s/>
                      <text:span text:style-name="T9">τυχεῖν</text:span> (E1) with <text:span text:style-name="T9">ἐκ πολλῶν </text:span>treats the choice between lovers and non-lovers as impersonal and statistical. <text:s/>The “qualitative” interpretations of “few” and “many” are barred (<text:span text:style-name="T6">pace</text:span> Rowe) by the absence of definite article with <text:span text:style-name="T9">ὀλίγων</text:span> and <text:span text:style-name="T9">πολλῶν</text:span>.</text:p>
                </text:note-body>
-            </text:note> are better that there will be a man worthy<text:note text:id="ftn137" text:note-class="footnote">
+            </text:note> are better that there will be a <text:soft-page-break/>man worthy<text:note text:id="ftn137" text:note-class="footnote">
                <text:note-citation>137</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -9770,7 +9770,7 @@
                      <text:s/>
                      <text:span text:style-name="T9">ὕβρει προσομιλῶν</text:span> (E5) exemplifies the <text:span text:style-name="T9">ὁμιλίαι τινές</text:span> that were left vague above (A3), with the prefix <text:span text:style-name="T9">προς-</text:span> now placing all the blame on himself. His lack of awe is due to his lack of memory, the unintended result of his <text:span text:style-name="T9">προσομιλεῖν</text:span>. The mention of <text:span text:style-name="T9">ὕβρις</text:span> brings forward the notion that uncritically underlay the very definition of eros in Socrates' other speech (238A2).</text:p>
                </text:note-body>
-            </text:note> rashness into his life and he feels neither awe nor shame that his pursuit <text:soft-page-break/>of pleasure is an affront to the nature of things.<text:note text:id="ftn562" text:note-class="footnote">
+            </text:note> rashness into his life and he feels neither awe nor shame that his pursuit of pleasure is an affront to the nature of things.<text:note text:id="ftn562" text:note-class="footnote">
                <text:note-citation>562</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -9789,7 +9789,7 @@
                      <text:span text:style-name="T38">(A2)</text:span> of course brings forward its opposite, <text:span text:style-name="T9">βραχέως</text:span>, from 250A2; but the formation of the term, an <text:span text:style-name="T9">ἅπαξ</text:span> in Greek, is reminiscent of <text:span text:style-name="T9">πολυπράγμων</text:span>, and thus negatively alludes to the <text:span text:style-name="T9">πολυθεάμων</text:span>
                      <text:span text:style-name="T24">'s</text:span> complement, who is preoccupied with the <text:span text:style-name="T9">ἀνθρώπινα σπουδάσματα</text:span> (249D1).</text:p>
                </text:note-body>
-            </text:note> in that world, when once he catches sight of a godlike face<text:note text:id="ftn564" text:note-class="footnote">
+            </text:note> in that world, when once he <text:soft-page-break/>catches sight of a godlike face<text:note text:id="ftn564" text:note-class="footnote">
                <text:note-citation>564</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -9877,7 +9877,6 @@
             </text:note> 
             <text:s/>He has broken into a sweat brought on by a fever that he does not understand.</text:p>
          <text:p text:style-name="P158">
-            <text:soft-page-break/>
             <text:s/>What has happened is that he has taken in an effluence of beauty that has flowed through his eyes<text:note text:id="ftn573" text:note-class="footnote">
                <text:note-citation>573</text:note-citation>
                <text:note-body>
@@ -9907,7 +9906,7 @@
                      <text:span text:style-name="T24">(cf.253E5-6)</text:span>, with <text:span text:style-name="T9">εἶδος</text:span> reminding us that the entire account of the soul with its winged horses and driver (246A3ff) is metaphoric imagery. Verdenius's interpretation (<text:span text:style-name="T6">ad loc</text:span>.) that <text:span text:style-name="T9">ὑπὸ τὸ εἶδος</text:span>
                      <text:span text:style-name="T24"> means that </text:span>the process is going on<text:span text:style-name="T19"> beneath </text:span>the “visible” surface therefore makes something go on beneath the imagery.</text:p>
                </text:note-body>
-            </text:note> of the soul, since formerly it had been winged throughout. So at this moment the soul as a whole seethes and pulsates. Just as a person feels a kind of itching irritation<text:note text:id="ftn577" text:note-class="footnote">
+            </text:note> of the soul, since formerly it had been winged throughout. So at this moment the <text:soft-page-break/>soul as a whole seethes and pulsates. Just as a person feels a kind of itching irritation<text:note text:id="ftn577" text:note-class="footnote">
                <text:note-citation>577</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -9963,7 +9962,7 @@
                      <text:span text:style-name="T24">.</text:span>
                   </text:p>
                </text:note-body>
-            </text:note> brings on a feeling of joy. As both these feelings mix within her she becomes embarrassed by the strangeness of what is happening and rages at the <text:soft-page-break/>trouble it gives her.<text:note text:id="ftn581" text:note-class="footnote">
+            </text:note> brings on a feeling of joy. As both these feelings mix within her she becomes embarrassed by the strangeness of what is happening and rages at the trouble it gives her.<text:note text:id="ftn581" text:note-class="footnote">
                <text:note-citation>581</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -10021,7 +10020,8 @@
                   <text:p text:style-name="Footnote">
                      <text:s/>Cf. the outer descriptions at 240D3-4 (<text:span text:style-name="T9">ἀραρότως</text:span>), and E2-4 (<text:span text:style-name="T9">ὑπερβάλλοντος</text:span>), in Socrates's First Speech.</text:p>
                </text:note-body>
-            </text:note> Mothers and brothers and all her companions she has forgotten; to squander wealth she counts as nothing.<text:note text:id="ftn588" text:note-class="footnote">
+            </text:note> 
+            <text:soft-page-break/>Mothers and brothers and all her companions she has forgotten; to squander wealth she counts as nothing.<text:note text:id="ftn588" text:note-class="footnote">
                <text:note-citation>588</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -11484,7 +11484,7 @@
                      <text:s/>
                      <text:span text:style-name="T9">πρὸς ταῦτα</text:span> (A6), parallel to <text:span text:style-name="T9">τοῦτο</text:span> in <text:span text:style-name="T9">τὸ μετὰ τοῦτο</text:span> (255E4).</text:p>
                </text:note-body>
-            </text:note> by opposing him with their <text:soft-page-break/>reverence and their reason.<text:note text:id="ftn738" text:note-class="footnote">
+            </text:note> by opposing him with their reverence and their reason.<text:note text:id="ftn738" text:note-class="footnote">
                <text:note-citation>738</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -11495,7 +11495,8 @@
                </text:note-body>
             </text:note> 
          </text:p>
-         <text:p text:style-name="P158">Now if at this moment<text:note text:id="ftn739" text:note-class="footnote">
+         <text:p text:style-name="P158">
+            <text:soft-page-break/>Now if at this moment<text:note text:id="ftn739" text:note-class="footnote">
                <text:note-citation>739</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -11563,7 +11564,7 @@
                      <text:span text:style-name="T9">ὡς ἀληθῶς</text:span>
                      <text:span text:style-name="T24"> asks us to find a novel meaning, and probably refers to the “Olympian” trains of the gods the victor will finally rejoin, something deservant of immortal fame. </text:span>We should compare the Speaker's special provision for the philosophical soul (249A1-5, cf. also <text:span text:style-name="T9">τὴν τῇδε πρώτην γένεσιν</text:span>, 252D3, to which he is now referring): his choice of the philosophical life a <text:span text:style-name="T6">third</text:span> time becomes his final choice (<text:span text:style-name="T9">τελευτήσαντες, </text:span>B3) since it gains him an early return to the hyperouranion. The contest between the speeches by the non-lover and by the lover (<text:span text:style-name="T9">φερέσθω τὰ νικητηρία, </text:span>245B5) has come to be subsumed into a contest between the lives of the lover and the beloved in the truest sense, as a pair, against those of the lover and the beloved in the lesser senses of love. </text:p>
                </text:note-body>
-            </text:note> than which neither human <text:soft-page-break/>temperance nor any madness inspired by a god can procure<text:note text:id="ftn748" text:note-class="footnote">
+            </text:note> than which neither human temperance nor any madness inspired by a god can procure<text:note text:id="ftn748" text:note-class="footnote">
                <text:note-citation>748</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -11572,7 +11573,8 @@
                      <text:span text:style-name="T24">)</text:span>. That divine madness cannot do better reminds us that of the four divine manias Eros is the best (249E1-3, originally asserted as a <text:span text:style-name="T6">demonstrandum</text:span> at 245B7: <text:span text:style-name="T9">εὐτυχία ἡ </text:span>
                      <text:span text:style-name="T10">μεγίστη</text:span>). This greatest boon it can confer is of course the winged return, after victory in the third round, to the divine procession in the sky, with its ascent on festival days into the hyperouranion to feast upon the noetic viands there on display. Compare the order of the soul, “than which there neither is nor will be any more valuable thing among gods and men” (241C5-6).</text:p>
                </text:note-body>
-            </text:note> a better boon for a man. <text:s/>If on the other hand they take up<text:note text:id="ftn749" text:note-class="footnote">
+            </text:note> a better boon for a man. <text:s/>
+            <text:soft-page-break/>If on the other hand they take up<text:note text:id="ftn749" text:note-class="footnote">
                <text:note-citation>749</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -11616,7 +11618,7 @@
                      <text:s/>
                      <text:span text:style-name="T9">χρῶνται</text:span> (C5), again (cf. C1).</text:p>
                </text:note-body>
-            </text:note> but only occasionally since it was not by a settled <text:soft-page-break/>resolution<text:note text:id="ftn755" text:note-class="footnote">
+            </text:note> but only occasionally since it was not by a settled resolution<text:note text:id="ftn755" text:note-class="footnote">
                <text:note-citation>755</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -11637,7 +11639,8 @@
                </text:note-body>
             </text:note> 
          </text:p>
-         <text:p text:style-name="P158">Now these, too, share a life of friendship with each other,<text:note text:id="ftn757" text:note-class="footnote">
+         <text:p text:style-name="P158">
+            <text:soft-page-break/>Now these, too, share a life of friendship with each other,<text:note text:id="ftn757" text:note-class="footnote">
                <text:note-citation>757</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -16931,7 +16934,7 @@
          <text:p text:style-name="P67"/>
          <text:p text:style-name="P87"/>
          <text:section text:style-name="Sect1" text:name="ANALYSIS OF THE PHAEDRUS">
-            <text:h text:style-name="P270" text:outline-level="1"/>
+            <text:h text:style-name="P279" text:outline-level="1"/>
             <text:h text:style-name="Heading_20_1" text:outline-level="1">
                <text:span text:style-name="T81">Analysis</text:span> 
             </text:h>
@@ -16946,7 +16949,7 @@
          <text:p text:style-name="P209"/>
          <text:section text:style-name="Sect1"
                        text:name="     The Setting for Delivering the Speech: 227A1-230E5">
-            <text:h text:style-name="P266" text:outline-level="3">The Setting for Delivering the Speech: <text:s/>227A1-230E5</text:h>
+            <text:h text:style-name="P281" text:outline-level="3">The Setting for Delivering the Speech: <text:s/>227A1-230E5</text:h>
          </text:section>
          <text:p text:style-name="P56"/>
          <text:p text:style-name="P56">
@@ -19141,7 +19144,7 @@
          <text:p text:style-name="P143"/>
          <text:p text:style-name="P143"/>
          <text:section text:style-name="Sect1" text:name="     Psychagogic Summary">
-            <text:h text:style-name="P266" text:outline-level="3">Psychagogic Summary of Third Speech: 245C5-257B6</text:h>
+            <text:h text:style-name="P281" text:outline-level="3">Psychagogic Summary of Third Speech: 245C5-257B6</text:h>
          </text:section>
          <text:p text:style-name="P70"/>
          <text:p text:style-name="P70">The “consecutive summary” sets into relief how our <text:span text:style-name="T6">experience</text:span> of being led along through the speech with its leaps and digressions was something quite other than being ushered through “argument” in the manner of Socrates's First Speech. Let us next allow it to move us in its own time, rather than summarize it from a retrospective vantage point that studiously abandons the process we underwent. Let us, that is, accumulate that experience from the inside out, as it actually unfolds, in the same manner we have done with the other two speeches.</text:p>
@@ -20497,14 +20500,14 @@
             </text:note> 
          </text:p>
          <text:p text:style-name="P56"/>
-         <text:list xml:id="list1806258193" text:style-name="L1">
+         <text:list xml:id="list1756545718" text:style-name="L1">
             <text:list-item>
                <text:list>
                   <text:list-item>
                      <text:list>
                         <text:list-item>
-                           <text:p text:style-name="P272">Retrospective Description of the Big Speech (265B2-C3)</text:p>
-                           <text:p text:style-name="P272"/>
+                           <text:p text:style-name="P266">Retrospective Description of the Big Speech (265B2-C3)</text:p>
+                           <text:p text:style-name="P266"/>
                         </text:list-item>
                      </text:list>
                   </text:list-item>
@@ -20537,14 +20540,14 @@
          <text:p text:style-name="P229">The most striking element in the summary is its loose weave of two indicatives with five <text:soft-page-break/>circumstantial participles, in the midst of which two are balanced. It is as if Socrates in remembering the speech for its dialectical content is himself re-inspired and unexpectedly driven off course.</text:p>
          <text:p text:style-name="P229"/>
          <text:p text:style-name="P229"/>
-         <text:list xml:id="list879133507" text:style-name="L2">
+         <text:list xml:id="list1656623939" text:style-name="L2">
             <text:list-item>
                <text:list>
                   <text:list-item>
                      <text:list>
                         <text:list-item>
-                           <text:p text:style-name="P276">Description of the Art of Logos (271B10-272B2)</text:p>
-                           <text:p text:style-name="P276"/>
+                           <text:p text:style-name="P270">Description of the Art of Logos (271B10-272B2)</text:p>
+                           <text:p text:style-name="P270"/>
                         </text:list-item>
                      </text:list>
                   </text:list-item>
@@ -20663,14 +20666,14 @@
          </text:p>
          <text:p text:style-name="P229"/>
          <text:p text:style-name="P229"/>
-         <text:list xml:id="list835878537" text:style-name="L3">
+         <text:list xml:id="list1603496240" text:style-name="L3">
             <text:list-item>
                <text:list>
                   <text:list-item>
                      <text:list>
                         <text:list-item>
-                           <text:p text:style-name="P277">The Dismissal of Tisias (273D2-274A5)</text:p>
-                           <text:p text:style-name="P277"/>
+                           <text:p text:style-name="P271">The Dismissal of Tisias (273D2-274A5)</text:p>
+                           <text:p text:style-name="P271"/>
                         </text:list-item>
                      </text:list>
                   </text:list-item>
@@ -20813,14 +20816,14 @@
          <text:p text:style-name="P229">Phaedrus has followed perfectly, for in his enthusiastic acceptance (<text:span text:style-name="T9">παγκάλως</text:span>) of Socrates's statement he focusses on the most important point, the aspiration regardless of its practical possibility (<text:span text:style-name="T9">εἴπερ οἷός τέ τις εἴη, </text:span>274A7).</text:p>
          <text:p text:style-name="P229"/>
          <text:p text:style-name="P229"/>
-         <text:list xml:id="list1846554080" text:style-name="L4">
+         <text:list xml:id="list2039456299" text:style-name="L4">
             <text:list-item>
                <text:list>
                   <text:list-item>
                      <text:list>
                         <text:list-item>
-                           <text:p text:style-name="P273">The Comparison of Writing to Speaking (276D1-277A4)</text:p>
-                           <text:p text:style-name="P278"/>
+                           <text:p text:style-name="P267">The Comparison of Writing to Speaking (276D1-277A4)</text:p>
+                           <text:p text:style-name="P272"/>
                         </text:list-item>
                      </text:list>
                   </text:list-item>
@@ -20854,14 +20857,14 @@
          <text:p text:style-name="P229">Phaedrus again agrees enthusiastically and right on point by singling out the discrepant purposes of play, for oblivion <text:span text:style-name="T6">versus</text:span> for remembering (<text:span text:style-name="T9">παγκάλην παιδιάν</text:span>, 276E1).</text:p>
          <text:p text:style-name="P229"/>
          <text:p text:style-name="P229"/>
-         <text:list xml:id="list1674757511" text:style-name="L5">
+         <text:list xml:id="list2005964348" text:style-name="L5">
             <text:list-item>
                <text:list>
                   <text:list-item>
                      <text:list>
                         <text:list-item>
-                           <text:p text:style-name="P274">Recollection of Their Results (277B5-C6)</text:p>
-                           <text:p text:style-name="P279"/>
+                           <text:p text:style-name="P268">Recollection of Their Results (277B5-C6)</text:p>
+                           <text:p text:style-name="P273"/>
                         </text:list-item>
                      </text:list>
                   </text:list-item>
@@ -20948,14 +20951,14 @@
             <text:soft-page-break/>
          </text:p>
          <text:p text:style-name="P145"/>
-         <text:list xml:id="list507843896" text:style-name="L6">
+         <text:list xml:id="list1747459405" text:style-name="L6">
             <text:list-item>
                <text:list>
                   <text:list-item>
                      <text:list>
                         <text:list-item>
-                           <text:p text:style-name="P275">The Climactic Inference (277D6-278B4)</text:p>
-                           <text:p text:style-name="P280"/>
+                           <text:p text:style-name="P269">The Climactic Inference (277D6-278B4)</text:p>
+                           <text:p text:style-name="P274"/>
                         </text:list-item>
                      </text:list>
                   </text:list-item>
@@ -21098,14 +21101,14 @@
          </text:p>
          <text:p text:style-name="P260"/>
          <text:p text:style-name="P259"/>
-         <text:list xml:id="list1158864642" text:style-name="L7">
+         <text:list xml:id="list1414300285" text:style-name="L7">
             <text:list-item>
                <text:list>
                   <text:list-item>
                      <text:list>
                         <text:list-item>
-                           <text:p text:style-name="P281">SETTING THE QUESTION</text:p>
-                           <text:p text:style-name="P281"/>
+                           <text:p text:style-name="P275">SETTING THE QUESTION</text:p>
+                           <text:p text:style-name="P275"/>
                         </text:list-item>
                      </text:list>
                   </text:list-item>
