@@ -35,38 +35,38 @@
    <office:meta>
       <meta:initial-creator>Kenneth QUANDT</meta:initial-creator>
       <meta:creation-date>2012-08-24T11:25:47</meta:creation-date>
-      <dc:date>2014-11-25T15:12:42</dc:date>
+      <dc:date>2015-02-21T18:51:19</dc:date>
       <dc:creator>Kenneth QUANDT</dc:creator>
-      <meta:editing-duration>P84DT12H17M1S</meta:editing-duration>
-      <meta:editing-cycles>631</meta:editing-cycles>
+      <meta:editing-duration>P84DT13H23M20S</meta:editing-duration>
+      <meta:editing-cycles>636</meta:editing-cycles>
       <meta:generator>OpenOffice.org/3.3$Unix OpenOffice.org_project/330m20$Build-9567</meta:generator>
-      <meta:document-statistic meta:character-count="1213144" meta:image-count="0" meta:object-count="0"
+      <meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0"
                                meta:page-count="269"
                                meta:paragraph-count="2762"
-                               meta:table-count="0"
-                               meta:word-count="209361"/>
+                               meta:word-count="209377"
+                               meta:character-count="1213269"/>
    </office:meta>
    <office:settings>
       <config:config-item-set config:name="ooo:view-settings">
-         <config:config-item config:name="ViewAreaTop" config:type="int">0</config:config-item>
-         <config:config-item config:name="ViewAreaLeft" config:type="int">0</config:config-item>
-         <config:config-item config:name="ViewAreaWidth" config:type="int">26245</config:config-item>
-         <config:config-item config:name="ViewAreaHeight" config:type="int">14284</config:config-item>
+         <config:config-item config:name="ViewAreaTop" config:type="int">7638579</config:config-item>
+         <config:config-item config:name="ViewAreaLeft" config:type="int">2461</config:config-item>
+         <config:config-item config:name="ViewAreaWidth" config:type="int">18817</config:config-item>
+         <config:config-item config:name="ViewAreaHeight" config:type="int">9495</config:config-item>
          <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
          <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
          <config:config-item-map-indexed config:name="Views">
             <config:config-item-map-entry>
                <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-               <config:config-item config:name="ViewLeft" config:type="int">24592</config:config-item>
-               <config:config-item config:name="ViewTop" config:type="int">4441</config:config-item>
-               <config:config-item config:name="VisibleLeft" config:type="int">0</config:config-item>
-               <config:config-item config:name="VisibleTop" config:type="int">0</config:config-item>
-               <config:config-item config:name="VisibleRight" config:type="int">26243</config:config-item>
-               <config:config-item config:name="VisibleBottom" config:type="int">14282</config:config-item>
+               <config:config-item config:name="ViewLeft" config:type="int">4269</config:config-item>
+               <config:config-item config:name="ViewTop" config:type="int">7641283</config:config-item>
+               <config:config-item config:name="VisibleLeft" config:type="int">2461</config:config-item>
+               <config:config-item config:name="VisibleTop" config:type="int">7638579</config:config-item>
+               <config:config-item config:name="VisibleRight" config:type="int">21276</config:config-item>
+               <config:config-item config:name="VisibleBottom" config:type="int">7648072</config:config-item>
                <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
-               <config:config-item config:name="ViewLayoutColumns" config:type="short">2</config:config-item>
-               <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">true</config:config-item>
-               <config:config-item config:name="ZoomFactor" config:type="short">84</config:config-item>
+               <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+               <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+               <config:config-item config:name="ZoomFactor" config:type="short">118</config:config-item>
                <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
             </config:config-item-map-entry>
          </config:config-item-map-indexed>
@@ -137,7 +137,9 @@
    </office:settings>
    <office:scripts>
       <office:script script:language="ooo:Basic">
-         <ooo:libraries/>
+         <ooo:libraries>
+            <ooo:library-embedded ooo:name="Standard"/>
+         </ooo:libraries>
       </office:script>
    </office:scripts>
    <office:font-face-decls>
@@ -2575,96 +2577,96 @@
          </style:paragraph-properties>
          <style:text-properties style:font-name="Gill Sans1"/>
       </style:style>
-      <style:style style:name="P254" style:family="paragraph"
-                   style:parent-style-name="Heading_20_1">
-         <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-         <style:text-properties fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
-      </style:style>
-      <style:style style:name="P255" style:family="paragraph"
-                   style:parent-style-name="Heading_20_1">
-         <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-      </style:style>
-      <style:style style:name="P256" style:family="paragraph"
-                   style:parent-style-name="Heading_20_1">
-         <style:paragraph-properties fo:line-height="150%" fo:text-align="center" style:justify-single-word="false"/>
-      </style:style>
-      <style:style style:name="P257" style:family="paragraph"
-                   style:parent-style-name="Heading_20_1">
-         <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
-      </style:style>
-      <style:style style:name="P258" style:family="paragraph"
-                   style:parent-style-name="Heading_20_1"
-                   style:master-page-name="Footnote">
-         <style:paragraph-properties style:page-number="auto"/>
-         <style:text-properties fo:color="#ff0000" fo:font-size="20pt" style:font-size-asian="20pt"
-                                style:font-size-complex="20pt"/>
-      </style:style>
-      <style:style style:name="P259" style:family="paragraph"
-                   style:parent-style-name="Heading_20_3">
-         <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto"
-                                style:text-underline-color="font-color"/>
-      </style:style>
-      <style:style style:name="P260" style:family="paragraph" style:parent-style-name="Standard"
+      <style:style style:name="P254" style:family="paragraph" style:parent-style-name="Standard"
                    style:list-style-name="L1">
          <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0.4984in"
                                      style:auto-text-indent="false"/>
          <style:text-properties fo:color="#000000" style:font-name="Gill Sans1"/>
       </style:style>
-      <style:style style:name="P261" style:family="paragraph" style:parent-style-name="Standard"
+      <style:style style:name="P255" style:family="paragraph" style:parent-style-name="Standard"
                    style:list-style-name="L4">
          <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0.4984in"
                                      style:auto-text-indent="false"/>
          <style:text-properties fo:color="#000000" style:font-name="Gill Sans1"/>
       </style:style>
-      <style:style style:name="P262" style:family="paragraph" style:parent-style-name="Standard"
+      <style:style style:name="P256" style:family="paragraph" style:parent-style-name="Standard"
                    style:list-style-name="L5">
          <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0.4984in"
                                      style:auto-text-indent="false"/>
          <style:text-properties fo:color="#000000" style:font-name="Gill Sans1"/>
       </style:style>
-      <style:style style:name="P263" style:family="paragraph" style:parent-style-name="Standard"
+      <style:style style:name="P257" style:family="paragraph" style:parent-style-name="Standard"
                    style:list-style-name="L6">
          <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0.4984in"
                                      style:auto-text-indent="false"/>
          <style:text-properties fo:color="#000000" style:font-name="Gill Sans1"/>
       </style:style>
-      <style:style style:name="P264" style:family="paragraph" style:parent-style-name="Standard"
+      <style:style style:name="P258" style:family="paragraph" style:parent-style-name="Standard"
                    style:list-style-name="L2">
          <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0.5in"
                                      style:auto-text-indent="false"/>
          <style:text-properties fo:color="#000000" style:font-name="Gill Sans1"/>
       </style:style>
-      <style:style style:name="P265" style:family="paragraph" style:parent-style-name="Standard"
+      <style:style style:name="P259" style:family="paragraph" style:parent-style-name="Standard"
                    style:list-style-name="L3">
          <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0.5in"
                                      style:auto-text-indent="false"/>
          <style:text-properties fo:color="#000000" style:font-name="Gill Sans1"/>
       </style:style>
-      <style:style style:name="P266" style:family="paragraph" style:parent-style-name="Standard"
+      <style:style style:name="P260" style:family="paragraph" style:parent-style-name="Standard"
                    style:list-style-name="L4">
          <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in"
                                      style:auto-text-indent="false"/>
          <style:text-properties fo:color="#000000" style:font-name="Gill Sans1"/>
       </style:style>
-      <style:style style:name="P267" style:family="paragraph" style:parent-style-name="Standard"
+      <style:style style:name="P261" style:family="paragraph" style:parent-style-name="Standard"
                    style:list-style-name="L5">
          <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in"
                                      style:auto-text-indent="false"/>
          <style:text-properties fo:color="#000000" style:font-name="Gill Sans1"/>
       </style:style>
-      <style:style style:name="P268" style:family="paragraph" style:parent-style-name="Standard"
+      <style:style style:name="P262" style:family="paragraph" style:parent-style-name="Standard"
                    style:list-style-name="L6">
          <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in"
                                      style:auto-text-indent="false"/>
          <style:text-properties fo:color="#000000" style:font-name="Gill Sans1"/>
       </style:style>
-      <style:style style:name="P269" style:family="paragraph" style:parent-style-name="Standard"
+      <style:style style:name="P263" style:family="paragraph" style:parent-style-name="Standard"
                    style:list-style-name="L7">
          <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0.4717in"
                                      style:auto-text-indent="false"/>
          <style:text-properties fo:color="#000000" style:font-name="Gill Sans1"
                                 style:text-underline-style="none"
                                 style:letter-kerning="false"/>
+      </style:style>
+      <style:style style:name="P264" style:family="paragraph"
+                   style:parent-style-name="Heading_20_1">
+         <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+         <style:text-properties fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
+      </style:style>
+      <style:style style:name="P265" style:family="paragraph"
+                   style:parent-style-name="Heading_20_1">
+         <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+      </style:style>
+      <style:style style:name="P266" style:family="paragraph"
+                   style:parent-style-name="Heading_20_1">
+         <style:paragraph-properties fo:line-height="150%" fo:text-align="center" style:justify-single-word="false"/>
+      </style:style>
+      <style:style style:name="P267" style:family="paragraph"
+                   style:parent-style-name="Heading_20_1">
+         <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+      </style:style>
+      <style:style style:name="P268" style:family="paragraph"
+                   style:parent-style-name="Heading_20_1"
+                   style:master-page-name="Footnote">
+         <style:paragraph-properties style:page-number="auto"/>
+         <style:text-properties fo:color="#ff0000" fo:font-size="20pt" style:font-size-asian="20pt"
+                                style:font-size-complex="20pt"/>
+      </style:style>
+      <style:style style:name="P269" style:family="paragraph"
+                   style:parent-style-name="Heading_20_3">
+         <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto"
+                                style:text-underline-color="font-color"/>
       </style:style>
       <style:style style:name="T1" style:family="text">
          <style:text-properties fo:font-size="9pt" fo:font-style="italic" style:font-size-asian="9pt"
@@ -3183,6 +3185,9 @@
       </style:style>
       <style:style style:name="T93" style:family="text">
          <style:text-properties style:font-name="Gill Sans"/>
+      </style:style>
+      <style:style style:name="T94" style:family="text">
+         <style:text-properties style:font-name="KadmosU"/>
       </style:style>
       <style:style style:name="Sect1" style:family="section">
          <style:section-properties style:editable="false">
@@ -3795,7 +3800,7 @@
                </text:span>
                <text:span text:style-name="Default_20_Paragraph_20_Font">
                   <text:span text:style-name="T2">
-                     <text:page-number text:select-page="current">1</text:page-number>
+                     <text:page-number text:select-page="current">257</text:page-number>
                   </text:span>
                </text:span>
             </text:p>
@@ -3810,16 +3815,16 @@
             <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
             <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
          </text:sequence-decls>
-         <text:h text:style-name="P258" text:outline-level="1"/>
-         <text:h text:style-name="P254" text:outline-level="1">THE PHAEDRUS OF PLATO</text:h>
+         <text:h text:style-name="P268" text:outline-level="1"/>
+         <text:h text:style-name="P264" text:outline-level="1">THE PHAEDRUS OF PLATO</text:h>
          <text:p text:style-name="P237">a Translation with Notes and Analysis by Kenneth Quandt</text:p>
          <text:p text:style-name="P3"/>
          <text:p text:style-name="P3"/>
          <text:p text:style-name="P3"/>
          <text:p text:style-name="P3"/>
          <text:p text:style-name="P3"/>
-         <text:h text:style-name="P255" text:outline-level="1"/>
-         <text:h text:style-name="P255" text:outline-level="1">Preface</text:h>
+         <text:h text:style-name="P265" text:outline-level="1"/>
+         <text:h text:style-name="P265" text:outline-level="1">Preface</text:h>
          <text:p text:style-name="P232"/>
          <text:p text:style-name="P232">
             <text:span text:style-name="T67">I present herewith a translation of Plato's </text:span>
@@ -3864,7 +3869,7 @@
                   <text:p text:style-name="Footnote">
                      <text:s/>Such passages as <text:span text:style-name="T6">Phdo</text:span>.78D, 100B; <text:span text:style-name="T6">Phlb</text:span>.15B1-4,16C10-E2,18E6ff; <text:span text:style-name="T6">Rep</text:span>.475E6-476A6, 507B2-8, 596A; <text:span text:style-name="T6">Tht</text:span>.185A8-E8 come to mind. Cf., in this dialogue, 249B7-C1 and 265C8-266B1 with nn., and n.<text:note-ref text:note-class="footnote" text:reference-format="text" text:ref-name="ftn269">269</text:note-ref>.</text:p>
                </text:note-body>
-            </text:note> I join Socrates in the major premise that discussion itself must rely upon such an assumption if it is to be taken seriously, and as a minor premise I believe that the main lesson Plato took from his personal encounter with Socrates was that discussion can and indeed must be taken seriously. The conclusion or inference is that Plato invented the dialogue genre to provide, for posterity and for those who did not know Socrates, a copious and wide ranging illustration of the point. Plato not only invented the dialogue genre but in particular continually depicted therein Socrates drawing together the dialogical and dialectical activities under a single notion, denoted by <text:span text:style-name="T9">διαλέγεσθαι</text:span> and its cognates. Beyond this, the controversies about an ontological theory of “separately existing” ideas or forms, as Aristotle formulated the question, and about which person or persons might hold or subscribe to such a theory, themselves separate the “evidence” for such a theory from the contexts in which alone it could appear, namely the dramatic circumstances and content of the <text:span text:style-name="T6">Dialogues</text:span> of Plato, which are fictional events in which conversation characteristically discovers it must take itself seriously. Once the talk about ideas is separated and detached from the dramatic circumstances in which Plato's imitation of Socrates's conversational behavior both allows and forces it it to arise, it loses its importance as a means to conduct conversation and devolves into an empty game of words, for the Speusippuses and Xenocrateses of this world. <text:s/>The last thing Plato would do is write a book called “On Ideas.”</text:p>
+            </text:note> I join Socrates in the major premise that discussion itself must rely upon such an assumption if it is to be taken seriously, and as a minor premise I believe that the main lesson Plato took from his personal encounter with Socrates was that discussion can and indeed must be taken seriously. The conclusion or inference is that Plato invented the dialogue genre to provide, for posterity and for those who did not know Socrates, a copious and wide ranging illustration of the point. Plato not only invented the dialogue genre but in particular continually depicted therein Socrates drawing together the dialogical and dialectical activities under a single notion, denoted by <text:span text:style-name="T9">διαλέγεσθαι</text:span> and its cognates. Beyond this, the controversies about an ontological theory of “separately existing” ideas or forms, as Aristotle formulated the question, and about which person or persons might hold or subscribe to such a theory, themselves separate the “evidence” for such a theory from the contexts in which alone it could appear, namely the dramatic circumstances and content of the <text:span text:style-name="T6">Dialogues</text:span> of Plato, which are fictional events in which conversation characteristically discovers it must take itself seriously. Once the talk about ideas is separated and detached from the dramatic circumstances in which Plato's imitation of Socrates's conversational behavior both allows and forces it to arise, it loses its importance as a means to conduct conversation and devolves into an empty game of words, for the Speusippuses and Xenocrateses of this world. <text:s/>The last thing Plato would do is write a book called “On Ideas.”</text:p>
          <text:p text:style-name="P234"/>
          <text:p text:style-name="P233">My teacher, W. Gerson Rabinowitz, used to say, with his affectedly proper English, “If Plato had written in Swedish I should have been a Swedish scholar.” My version is that if Plato had written symphonies I should have become a conductor so that I could perform them for an audience. It is the first and foremost of my hopes for this written work that it might make the action of the dialogue more available to you, just as it is the least and last of my hopes to try to spell out all of what the dialogue means. Its meaning may come to life only within you, through your thought and reflection upon the text, with much of this taking place <text:span text:style-name="T6">as you read it</text:span> and not just after. A good deal of your understanding will, moreover, be inextricably bound up with the idiosyncratic process by which you come to understand what is being said (both the words and what they mean), so that your <text:soft-page-break/>understanding of the text will itself develop and have a history. I always conceive of you as if you were reading it for the first time, and I never think of myself as sparing you the need or dispelling your desire to read it again. If, after all the stops and starts you are required to make during the first time through, you feel a desire to go back and reread the whole dialogue, then my writing shall have succeeded, for in this way you will more likely get the whole sweep of the drama and will come to see why it is one of the best known and best loved books ever written. On the other hand if you look to my book to tell you straight out what the text means, you are bringing with you the very “Phaedrus problem” that Plato's drama has identified for posterity and is meant to help us to overcome. No eloquence of mine nor even that of Plato will take you there on its own, only your own desire and drive to reach a more vivid cognition of the Beauty and Truth you barely remember, whatever it takes, and a firm resolve to put off the desire to “trade away the honor of the gods for honor among men,” the central theme of this drama,<text:note text:id="ftn7" text:note-class="footnote">
                <text:note-citation>7</text:note-citation>
@@ -3876,7 +3881,7 @@
                <text:note-body>
                   <text:p text:style-name="Footnote">The topic Phaedrus had evaded is finally answered explicitly at the end of the discussion: 277D6-278B4.</text:p>
                </text:note-body>
-            </text:note> Scholars keep asking why Plato wrote dialogues. I hope you will begin to ask why or how subsequent philosophers failed or avoided doing so, and what philosophy had to become, immediately after it as born, because they didn't or couldn't.</text:p>
+            </text:note> Scholars keep asking why Plato wrote dialogues. I hope you will begin to ask why or how subsequent philosophers failed or avoided doing so, and what philosophy had to become, immediately after it was born, because they didn't or couldn't.</text:p>
          <text:p text:style-name="P233"/>
          <text:p text:style-name="P233">I have the great honor and pleasure of dedicating this work to Zoe Quandt and Ethan Brown on the occasion of their marriage at Santa Cruz, California, on 12 October 2014:</text:p>
          <text:p text:style-name="P233"/>
@@ -3884,7 +3889,7 @@
          <text:p text:style-name="P233"/>
          <text:p text:style-name="P233"/>
          <text:p text:style-name="P233"/>
-         <text:h text:style-name="P255" text:outline-level="1">Introduction</text:h>
+         <text:h text:style-name="P265" text:outline-level="1">Introduction</text:h>
          <text:p text:style-name="P233"/>
          <text:p text:style-name="P233">The dramatic substance of the <text:span text:style-name="T6">Phaedrus</text:span> can be ascertained by the direct evidence of the text if it is read with care. In my study of Plato's <text:span text:style-name="T6">Republic</text:span>,<text:note text:id="ftn9" text:note-class="footnote">
                <text:note-citation>9</text:note-citation>
@@ -4058,7 +4063,7 @@
          <text:p text:style-name="P227"/>
          <text:p text:style-name="P12"/>
          <text:p text:style-name="P3"/>
-         <text:h text:style-name="P256" text:outline-level="1">Table of Contents</text:h>
+         <text:h text:style-name="P266" text:outline-level="1">Table of Contents</text:h>
          <text:p text:style-name="P251">Translation of Plato's <text:span text:style-name="T6">Phaedrus</text:span> with Notes<text:tab/>15-151<text:tab/>
             <text:tab/>
          </text:p>
@@ -4831,7 +4836,7 @@
                <text:note-body>
                   <text:p text:style-name="Footnote">
                      <text:span text:style-name="T9">
-                        <text:s/>οὐδὲν ἐθέλει</text:span> (D4): A personification of natural tendency, like <text:span text:style-name="T9">φιλεῖν</text:span> (<text:span text:style-name="T9">φύσις κρύπτεσθαι φιλεῖ, </text:span>Hktl. B123; cf. <text:span text:style-name="T6">Phlb</text:span>.37B6) and <text:span text:style-name="T9">ζητεῖν</text:span> (<text:span text:style-name="T6">Rep</text:span>.388E6). Cf.<text:span text:style-name="T6">Soph</text:span>.252E9. Stallb. <text:span text:style-name="T6">ad Rep</text:span>.370B.</text:p>
+                        <text:s/>οὐδὲν ἐθέλει</text:span> (D4): A personification of natural tendency, like <text:span text:style-name="T9">φιλεῖν</text:span> (<text:span text:style-name="T9">φύσις κρύπτεσθαι φιλεῖ, </text:span>Hktl. B123; cf. <text:span text:style-name="T6">Lach</text:span>.181E3, <text:span text:style-name="T6">Phlb</text:span>.37B6) and <text:span text:style-name="T9">ζητεῖν</text:span> (<text:span text:style-name="T6">Rep</text:span>.388E6). Cf.<text:span text:style-name="T6">Soph</text:span>.252E9. Stallb. <text:span text:style-name="T6">ad Rep</text:span>.370B.</text:p>
                </text:note-body>
             </text:note> teach me nothing (it's men within the city<text:note text:id="ftn105" text:note-class="footnote">
                <text:note-citation>105</text:note-citation>
@@ -5812,10 +5817,10 @@
                </text:note-body>
             </text:note>
          </text:p>
-         <text:p text:style-name="P146">
-            <text:soft-page-break/>“So you think you should make a joke.”</text:p>
+         <text:p text:style-name="P146">“So you think you should make a joke.”</text:p>
          <text:p text:style-name="P146">You think I'm making a joke and not serious in what I said?</text:p>
-         <text:p text:style-name="P146">“Oh no, not you, not at all! But tell me sincerely<text:note text:id="ftn212" text:note-class="footnote">
+         <text:p text:style-name="P146">
+            <text:soft-page-break/>“Oh no, not you, not at all! But tell me sincerely<text:note text:id="ftn212" text:note-class="footnote">
                <text:note-citation>212</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -5928,7 +5933,6 @@
                </text:note>
             </text:span>
             <text:span text:style-name="T24"> over and over again in different ways, though each time as </text:span>
-            <text:soft-page-break/>
             <text:span text:style-name="T24">astutely as the last.</text:span>
             <text:span text:style-name="T24">
                <text:note text:id="ftn221" text:note-class="footnote">
@@ -5941,7 +5945,8 @@
             </text:span>
             <text:span text:style-name="T24"> </text:span>
          </text:p>
-         <text:p text:style-name="P146">“Baloney, Socrates. The thing you fault it for was just the thing the speech has, and has in spades. Of all the possible<text:note text:id="ftn222" text:note-class="footnote">
+         <text:p text:style-name="P146">
+            <text:soft-page-break/>“Baloney, Socrates. The thing you fault it for was just the thing the speech has, and has in spades. Of all the possible<text:note text:id="ftn222" text:note-class="footnote">
                <text:note-citation>222</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -6556,8 +6561,7 @@
                      <text:span text:style-name="T24"> (D8).</text:span>
                   </text:p>
                </text:note-body>
-            </text:note> 
-            <text:soft-page-break/>toward the pleasure of beauty,<text:note text:id="ftn279" text:note-class="footnote">
+            </text:note> toward the pleasure of beauty,<text:note text:id="ftn279" text:note-class="footnote">
                <text:note-citation>279</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -6669,7 +6673,7 @@
                      <text:span text:style-name="T24">), after he has remarked that the divine effect he is undergoing might just be due the special surroundings after all. Still, he goes on to say, the two of them must not avert the spell. Anyone who has improvised successfully knows how a feeling of vertigo combines with an awareness that stopping will immediately lead to a fall. This is what I take to be the nature of his anxiety, not some undefined and unasserted prejudice that inspiration is bad. </text:span>
                   </text:p>
                </text:note-body>
-            </text:note> to me. Divine indeed does this place seem. If I should be carried <text:soft-page-break/>away as if by nymphs<text:note text:id="ftn286" text:note-class="footnote">
+            </text:note> to me. Divine indeed does this place seem. If I should be carried away as if by nymphs<text:note text:id="ftn286" text:note-class="footnote">
                <text:note-citation>286</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -6688,7 +6692,8 @@
             </text:note>
          </text:p>
          <text:p text:style-name="P82">“You certainly have!”</text:p>
-         <text:p text:style-name="P82">And you're to blame!<text:note text:id="ftn288" text:note-class="footnote">
+         <text:p text:style-name="P82">
+            <text:soft-page-break/>And you're to blame!<text:note text:id="ftn288" text:note-class="footnote">
                <text:note-citation>288</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -6697,7 +6702,7 @@
                </text:note-body>
             </text:note> But hear now the rest of it before the influence might shy away from me. Whether it should or not I must leave in the lap of the gods; my job is to turn back to the Boy in our speech:</text:p>
          <text:p text:style-name="P210"/>
-         <text:p text:style-name="P210">“All right, my worthy lad, the subject of our present deliberation has been described and defined. Let's keep that definition in mind as we argue the question of what benefit or harm is likely to come to the boy from the man he grants his favors to, according to whether the man loves him or not. Clearly, the man who is ruled by desire and is enslaved to pleasure is compelled to render his beloved able to give himself the maximum of pleasure. And yet a person afflicted by illness finds something pleasurable only if it does not oppose him<text:note text:id="ftn289" text:note-class="footnote">
+         <text:p text:style-name="P210">“All right, my worthy lad, the subject of our present deliberation has been described and defined. Let's keep that definition in mind as we argue the question of what benefit or harm is likely to come to the boy from the man he grants his favors to, according to whether the man loves him or not. Clearly, the man who is ruled by desire and is enslaved to pleasure is compelled to render his beloved able to give himself the <text:soft-page-break/>maximum of pleasure. And yet a person afflicted by illness finds something pleasurable only if it does not oppose him<text:note text:id="ftn289" text:note-class="footnote">
                <text:note-citation>289</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -7714,8 +7719,7 @@
                      <text:s/>
                      <text:span text:style-name="T9">κινοῦν … κινούμενον</text:span> (C6): It is of course crucial to remember that whereas in English the verb “move” is both transitive and intransitive, the Greek verb <text:span text:style-name="T9">κινεῖν</text:span> is transitive only, so that “moving” in the sense of “being in motion” requires the passive voice (<text:span text:style-name="T24">as at C8 and C9</text:span>). The translator must be careful to take this into account.</text:p>
                </text:note-body>
-            </text:note> because it can have a cessation of motion, can have a cessation of life. Only that which moves itself, since it does not leave itself behind, never ceases being in motion, while for all other things that are in movement it is this that is the ultimate source and initiator of their being in movement. <text:s/>
-            <text:soft-page-break/>As an initiator or beginning it does not come to be, for everything that comes to be necessarily comes to be from a beginning, whereas a beginning necessarily does not come to be from any thing at all;<text:note text:id="ftn384" text:note-class="footnote">
+            </text:note> because it can have a cessation of motion, can have a cessation of life. Only that which moves itself, since it does not leave itself behind, never ceases being in motion, while for all other things that are in movement it is this that is the ultimate source and initiator of their being in movement. <text:s/>As an initiator or beginning it does not come to be, for everything that comes to be <text:soft-page-break/>necessarily comes to be from a beginning, whereas a beginning necessarily does not come to be from any thing at all;<text:note text:id="ftn384" text:note-class="footnote">
                <text:note-citation>384</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -7799,7 +7803,7 @@
                      <text:s/>
                      <text:span text:style-name="T9">οὐσίαν τε καὶ λόγον</text:span> (E3), a spelling out of <text:span text:style-name="T9">φύσις</text:span> (C3), which has been made rational and true by the intervening reasoning. <text:s/>The two terms, and the connecting of them, is Socratic-Platonic in the same way that <text:span text:style-name="T9">οὐσία</text:span> (suspiciously) was, in Socrates's First Speech (237C3). Just below they will be replaced with <text:span text:style-name="T9">φύσις</text:span>.</text:p>
                </text:note-body>
-            </text:note> of soul. For as to body, the kind whose ability to be in motion comes from <text:soft-page-break/>the outside is called “soulless” or inanimate, whereas the kind for which the ability to move is within but is not part of itself is called “ensouled” or animate, as if on the grounds that the power to move belongs to the nature of soul. But if this is really true – that the thing that can move itself is no other thing than soul – then it follows necessarily that soul would be ungenerated and deathless. <text:span text:style-name="T35">(</text:span>
+            </text:note> of soul. For as to body, the kind whose ability to be in motion comes from the outside is called “soulless” or inanimate, whereas the kind for which the ability to <text:soft-page-break/>move is within but is not part of itself is called “ensouled” or animate, as if on the grounds that the power to move belongs to the nature of soul. But if this is really true – that the thing that can move itself is no other thing than soul – then it follows necessarily that soul would be ungenerated and deathless. <text:span text:style-name="T35">(</text:span>
             <text:bookmark-start text:name="246"/>
             <text:span text:style-name="T35">246</text:span>
             <text:bookmark-end text:name="246"/>
@@ -8719,7 +8723,8 @@
                </text:note-body>
             </text:note> 
          </text:p>
-         <text:p text:style-name="P147">The reason for all their eager striving to see the plain<text:note text:id="ftn474" text:note-class="footnote">
+         <text:p text:style-name="P147">
+            <text:soft-page-break/>The reason for all their eager striving to see the plain<text:note text:id="ftn474" text:note-class="footnote">
                <text:note-citation>474</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -8779,7 +8784,7 @@
                      <text:span text:style-name="T9">θεσμός τε Ἀδραστείας ὅδε</text:span> (C2): The parallelism, the linkage by <text:span text:style-name="T9">τε</text:span>, and the magisterial style is continued, but now the narrator varies the initial definite article with predicative <text:span text:style-name="T9">ὅδε </text:span>
                      <text:span text:style-name="T24">(the “first person” pronoun</text:span>) placed at the end of the clause, to announce the arrival of the Ineluctable One, Nemesis or Anagke, arriving on the scene to restore rudimentary order among men forcibly, since their own “submerged” behavior, though completely natural, can only make a wreckage of themselves and each other. On the “Law of Adrasteia” cf. Heitsch 103-5.</text:p>
                </text:note-body>
-            </text:note> Any soul that becomes <text:soft-page-break/>companion to god<text:note text:id="ftn480" text:note-class="footnote">
+            </text:note> Any soul that becomes companion to god<text:note text:id="ftn480" text:note-class="footnote">
                <text:note-citation>480</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -13103,7 +13108,7 @@
                      <text:span text:style-name="T24">.</text:span>
                   </text:p>
                </text:note-body>
-            </text:note> the courts and public <text:soft-page-break/>assemblies. Instead it seems that this would be<text:note text:id="ftn893" text:note-class="footnote">
+            </text:note> the courts and public assemblies. Instead it seems that this would be<text:note text:id="ftn893" text:note-class="footnote">
                <text:note-citation>893</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -13154,7 +13159,8 @@
             <text:span text:style-name="T35">)</text:span> 
          </text:p>
          <text:p text:style-name="P53">“A little.”</text:p>
-         <text:p text:style-name="P53">And it is by small steps that you will better evade the audience's notice as you move from a thing to its opposite rather than by larger steps?</text:p>
+         <text:p text:style-name="P53">
+            <text:soft-page-break/>And it is by small steps that you will better evade the audience's notice as you move from a thing to its opposite rather than by larger steps?</text:p>
          <text:p text:style-name="P53">“Of course.”</text:p>
          <text:p text:style-name="P53">Thus a man that is thinking of<text:note text:id="ftn898" text:note-class="footnote">
                <text:note-citation>898</text:note-citation>
@@ -13200,7 +13206,7 @@
                      <text:span text:style-name="T38"> above, 261E3).</text:span>
                   </text:p>
                </text:note-body>
-            </text:note> walk his audience along, leading them from the truth toward its opposite by small steps through the exploitation of similarities, or can <text:soft-page-break/>himself avoid this happening to himself, assuming he lacks settled knowledge<text:note text:id="ftn902" text:note-class="footnote">
+            </text:note> walk his audience along, leading them from the truth toward its opposite by small steps through the exploitation of similarities, or can himself avoid this happening to himself, assuming he lacks settled knowledge<text:note text:id="ftn902" text:note-class="footnote">
                <text:note-citation>902</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -13250,7 +13256,8 @@
                </text:note-body>
             </text:note> we are talking about?</text:p>
          <text:p text:style-name="P53">“More than anything I would, since our argument is very abstract and lacking in adequate illustrations.”</text:p>
-         <text:p text:style-name="P53">Well in fact the pair of speeches<text:note text:id="ftn907" text:note-class="footnote">
+         <text:p text:style-name="P53">
+            <text:soft-page-break/>Well in fact the pair of speeches<text:note text:id="ftn907" text:note-class="footnote">
                <text:note-citation>907</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -16875,8 +16882,7 @@
                      <text:s/>
                      <text:span text:style-name="T9">τίνα</text:span> (E9): As at <text:span text:style-name="T6">Gorg</text:span>.447D1 the interrogative asks for a designation such as that of a profession (<text:span text:style-name="T9">ἐπωνυμία</text:span>, C7). Cf. <text:span text:style-name="T6">Rep</text:span>.438C8 with my n.</text:p>
                </text:note-body>
-            </text:note> shall we use for <text:soft-page-break/>
-            <text:span text:style-name="T6">him</text:span>?”</text:p>
+            </text:note> shall we use for <text:span text:style-name="T6">him</text:span>?”</text:p>
          <text:p text:style-name="P53">Isocrates is still young, Phaedrus. But I am willing to say what I see in his future.<text:note text:id="ftn1286" text:note-class="footnote">
                <text:note-citation>1286</text:note-citation>
                <text:note-body>
@@ -16900,7 +16906,7 @@
                      <text:span text:style-name="T9">κατὰ τοὺς περὶ Λυσίαν … λόγους</text:span> 
                      <text:span text:style-name="T35">(279A3-4)</text:span>: Still further back can Socrates reach, after all. His response to Phaedrus's guess that he will “return” as it were to Isocrates enables him to invent an external criterion by which to measure Lysias, with whom the dialogue began (<text:span text:style-name="T9">παρὰ Λυσίου</text:span>, 227A2), so that the entire dialogue can now be brought to an end.</text:p>
                </text:note-body>
-            </text:note> in terms of his natural talents, and tempered<text:note text:id="ftn1288" text:note-class="footnote">
+            </text:note> in terms of his natural <text:soft-page-break/>talents, and tempered<text:note text:id="ftn1288" text:note-class="footnote">
                <text:note-citation>1288</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -16984,7 +16990,7 @@
                </text:note-body>
             </text:note> to the gods of this place before going?</text:p>
          <text:p text:style-name="P53">“Of course.”</text:p>
-         <text:p text:style-name="P53">Dear Pan, and all the other gods of this place, grant that I become beautiful within. Let my <text:soft-page-break/>outward bearing<text:note text:id="ftn1295" text:note-class="footnote">
+         <text:p text:style-name="P53">Dear Pan, and all the other gods of this place, grant that I become beautiful within. Let my outward bearing<text:note text:id="ftn1295" text:note-class="footnote">
                <text:note-citation>1295</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -17005,7 +17011,7 @@
                      <text:s/>
                      <text:span text:style-name="T9">πλούσιον</text:span> (C1): With this we reach the expected third category of goods, but learn that what is good about wealth is that we first think it as consisting of wisdom, and let gold be only gold and not good. </text:p>
                </text:note-body>
-            </text:note> only he who is wise, and as for gold grant me only as much as a temperate man can manage.<text:note text:id="ftn1298" text:note-class="footnote">
+            </text:note> only he who <text:soft-page-break/>is wise, and as for gold grant me only as much as a temperate man can manage.<text:note text:id="ftn1298" text:note-class="footnote">
                <text:note-citation>1298</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -17033,7 +17039,7 @@
          <text:p text:style-name="P55"/>
          <text:p text:style-name="P75"/>
          <text:section text:style-name="Sect1" text:name="ANALYSIS OF THE PHAEDRUS">
-            <text:h text:style-name="P257" text:outline-level="1"/>
+            <text:h text:style-name="P267" text:outline-level="1"/>
             <text:h text:style-name="Heading_20_1" text:outline-level="1">
                <text:span text:style-name="T81">Analysis</text:span> 
             </text:h>
@@ -17048,7 +17054,7 @@
          <text:p text:style-name="P198"/>
          <text:section text:style-name="Sect1"
                        text:name="     The Setting for Delivering the Speech: 227A1-230E5">
-            <text:h text:style-name="P259" text:outline-level="3">The Setting for Delivering the Speech: <text:s/>227A1-230E5</text:h>
+            <text:h text:style-name="P269" text:outline-level="3">The Setting for Delivering the Speech: <text:s/>227A1-230E5</text:h>
          </text:section>
          <text:p text:style-name="P44"/>
          <text:p text:style-name="P44">
@@ -19239,7 +19245,7 @@
          <text:p text:style-name="P132"/>
          <text:p text:style-name="P132"/>
          <text:section text:style-name="Sect1" text:name="     Psychagogic Summary">
-            <text:h text:style-name="P259" text:outline-level="3">Psychagogic Summary of Third Speech: 245C5-257B6</text:h>
+            <text:h text:style-name="P269" text:outline-level="3">Psychagogic Summary of Third Speech: 245C5-257B6</text:h>
          </text:section>
          <text:p text:style-name="P58"/>
          <text:p text:style-name="P58">The “consecutive summary” sets into relief how our <text:span text:style-name="T6">experience</text:span> of being led along through the speech with its leaps and digressions was something quite other than being ushered through “argument” in the manner of Socrates's First Speech. Let us next allow it to move us in its own time, rather than summarize it from a retrospective vantage point that studiously abandons the process we underwent. Let us, that is, accumulate that experience from the inside out, as it actually unfolds, in the same manner we have done with the other two speeches.</text:p>
@@ -19488,7 +19494,7 @@
                         <text:p text:style-name="P16">
                            <text:s/>
                            <text:span text:style-name="T9">οὔκεθ’ ἑαυτῶν</text:span>, 250A7: cf. n.<text:note-ref text:note-class="footnote" text:reference-format="text" text:ref-name="ftn529">529</text:note-ref>
-                           <text:note-ref text:note-class="footnote" text:reference-format="page" text:ref-name="ftn529">71</text:note-ref>.</text:p>
+                           <text:note-ref text:note-class="footnote" text:reference-format="page" text:ref-name="ftn529"/>.</text:p>
                      </text:note-body>
                   </text:note>
                </text:span>
@@ -20591,14 +20597,14 @@
             </text:note> 
          </text:p>
          <text:p text:style-name="P44"/>
-         <text:list xml:id="list576310777" text:style-name="L1">
+         <text:list xml:id="list921869763" text:style-name="L1">
             <text:list-item>
                <text:list>
                   <text:list-item>
                      <text:list>
                         <text:list-item>
-                           <text:p text:style-name="P260">Retrospective Description of the Big Speech (265B2-C3)</text:p>
-                           <text:p text:style-name="P260"/>
+                           <text:p text:style-name="P254">Retrospective Description of the Big Speech (265B2-C3)</text:p>
+                           <text:p text:style-name="P254"/>
                         </text:list-item>
                      </text:list>
                   </text:list-item>
@@ -20631,14 +20637,14 @@
          <text:p text:style-name="P218">The most striking element in the summary is its loose weave of two indicatives with five <text:soft-page-break/>circumstantial participles, in the midst of which two are balanced. It is as if Socrates in remembering the speech for its dialectical content is himself re-inspired and unexpectedly driven off course.</text:p>
          <text:p text:style-name="P218"/>
          <text:p text:style-name="P218"/>
-         <text:list xml:id="list2091482259" text:style-name="L2">
+         <text:list xml:id="list528655375" text:style-name="L2">
             <text:list-item>
                <text:list>
                   <text:list-item>
                      <text:list>
                         <text:list-item>
-                           <text:p text:style-name="P264">Description of the Art of Logos (271B10-272B2)</text:p>
-                           <text:p text:style-name="P264"/>
+                           <text:p text:style-name="P258">Description of the Art of Logos (271B10-272B2)</text:p>
+                           <text:p text:style-name="P258"/>
                         </text:list-item>
                      </text:list>
                   </text:list-item>
@@ -20757,14 +20763,14 @@
          </text:p>
          <text:p text:style-name="P218"/>
          <text:p text:style-name="P218"/>
-         <text:list xml:id="list570010460" text:style-name="L3">
+         <text:list xml:id="list1729101725" text:style-name="L3">
             <text:list-item>
                <text:list>
                   <text:list-item>
                      <text:list>
                         <text:list-item>
-                           <text:p text:style-name="P265">The Dismissal of Tisias (273D2-274A5)</text:p>
-                           <text:p text:style-name="P265"/>
+                           <text:p text:style-name="P259">The Dismissal of Tisias (273D2-274A5)</text:p>
+                           <text:p text:style-name="P259"/>
                         </text:list-item>
                      </text:list>
                   </text:list-item>
@@ -20907,14 +20913,14 @@
          <text:p text:style-name="P218">Phaedrus has followed perfectly, for in his enthusiastic acceptance (<text:span text:style-name="T9">παγκάλως</text:span>) of Socrates's statement he focusses on the most important point, the aspiration regardless of its practical possibility (<text:span text:style-name="T9">εἴπερ οἷός τέ τις εἴη, </text:span>274A7).</text:p>
          <text:p text:style-name="P218"/>
          <text:p text:style-name="P218"/>
-         <text:list xml:id="list1428753143" text:style-name="L4">
+         <text:list xml:id="list2022042610" text:style-name="L4">
             <text:list-item>
                <text:list>
                   <text:list-item>
                      <text:list>
                         <text:list-item>
-                           <text:p text:style-name="P261">The Comparison of Writing to Speaking (276D1-277A4)</text:p>
-                           <text:p text:style-name="P266"/>
+                           <text:p text:style-name="P255">The Comparison of Writing to Speaking (276D1-277A4)</text:p>
+                           <text:p text:style-name="P260"/>
                         </text:list-item>
                      </text:list>
                   </text:list-item>
@@ -20948,14 +20954,14 @@
          <text:p text:style-name="P218">Phaedrus again agrees enthusiastically and right on point by singling out the discrepant purposes of play, for oblivion <text:span text:style-name="T6">versus</text:span> for remembering (<text:span text:style-name="T9">παγκάλην παιδιάν</text:span>, 276E1).</text:p>
          <text:p text:style-name="P218"/>
          <text:p text:style-name="P218"/>
-         <text:list xml:id="list1079434837" text:style-name="L5">
+         <text:list xml:id="list1299494234" text:style-name="L5">
             <text:list-item>
                <text:list>
                   <text:list-item>
                      <text:list>
                         <text:list-item>
-                           <text:p text:style-name="P262">Recollection of Their Results (277B5-C6)</text:p>
-                           <text:p text:style-name="P267"/>
+                           <text:p text:style-name="P256">Recollection of Their Results (277B5-C6)</text:p>
+                           <text:p text:style-name="P261"/>
                         </text:list-item>
                      </text:list>
                   </text:list-item>
@@ -21038,18 +21044,18 @@
                </text:note-body>
             </text:note>
          </text:p>
+         <text:p text:style-name="P134"/>
          <text:p text:style-name="P134">
             <text:soft-page-break/>
          </text:p>
-         <text:p text:style-name="P134"/>
-         <text:list xml:id="list1306956793" text:style-name="L6">
+         <text:list xml:id="list1448962587" text:style-name="L6">
             <text:list-item>
                <text:list>
                   <text:list-item>
                      <text:list>
                         <text:list-item>
-                           <text:p text:style-name="P263">The Climactic Inference (277D6-278B4)</text:p>
-                           <text:p text:style-name="P268"/>
+                           <text:p text:style-name="P257">The Climactic Inference (277D6-278B4)</text:p>
+                           <text:p text:style-name="P262"/>
                         </text:list-item>
                      </text:list>
                   </text:list-item>
@@ -21109,16 +21115,17 @@
             </text:h>
          </text:section>
          <text:p text:style-name="P246"/>
-         <text:p text:style-name="P246">The scholarly controversy as to whether Plato's writings are vulnerable to the critique of writing Socrates presents in the Phaedrus<text:note text:id="ftn1578" text:note-class="footnote">
+         <text:p text:style-name="P246">The scholarly controversy as to whether Plato's writings are vulnerable to the critique of writing Socrates presents in the <text:span text:style-name="T6">Phaedrus</text:span>
+            <text:note text:id="ftn1578" text:note-class="footnote">
                <text:note-citation>1578</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
                      <text:s/>It has proven a testing ground for philological argumentation (Heitsch, etc.) as well as a medium for a philosophical <text:s/>gigantomachia (as for instance between Derrida [<text:span text:style-name="T6">Dissemination</text:span>] and Rosen [<text:span text:style-name="T6">Hermeneutics as Politics</text:span>]) The question is further complicated by the assertion in the probably inauthentic <text:span text:style-name="T6">Seventh Letter</text:span> that Plato would never commit his best ideas to writing.</text:p>
                </text:note-body>
-            </text:note> presuppose as obvious that the dialogue presents a doctrine about writing that can be applied beyond its immediate context, and that Plato's writings are <text:span text:style-name="T6">eo ipso</text:span> vulnerable to the criticism. My new commentary adds background material relevant to these presuppositions that might be of interest to the partisans of this controversy, and so I assemble this material as an appendix.</text:p>
+            </text:note> presupposes as obvious that the dialogue presents a doctrine about writing that can be applied beyond its immediate context, and that Plato's writings are <text:span text:style-name="T6">eo ipso</text:span> vulnerable to the criticism. My new commentary adds background material relevant to these presuppositions that might be of interest to the partisans of this controversy, and so I assemble this material as an appendix.</text:p>
          <text:p text:style-name="P246"/>
          <text:p text:style-name="P246">THE CRITIQUE ITSELF</text:p>
-         <text:p text:style-name="P246">The distinction between writing and live speech and conversation arises early in the <text:span text:style-name="T6">Phaedrus</text:span> but neither the distinction nor the relative merits of the two is thematized until much later, when Phaedrus begins the dialogical section by evading the prayer Socrates had made at the end of his great speech and suddenly alleges that Lysias is reluctant to write anything because some nameless politician has criticized him for being a mere speechwriter. <text:s/>Even there, however, Socrates denies that writing is <text:span text:style-name="T6">eo ipso</text:span> reproachable, even to the politician, though surely writing and speaking badly would be. Thus he steers the conversation to the question what makes writing or speaking good or bad. Once they have decided this question, however, Socrates does revert to the prior question about whether writing itself is reprehensible, and argues, in terms that arose in the course of the conversation on good or bad composition in general, that a person's choice to consign his thoughts to writing instead of speaking them live will disserve the audience by (1) encouraging them to rely upon writing rather than their memory, and (2) leaving them with the belief they can retrieve the ideas by reading when they will not be able to unless they understood them in the first place (274C5-275B2); and that (3) the experience of reading will stimulate in the reader a natural desire to converse with the author live, whether for clarification or elaboration, that will of course be disappointed, unless the author can write his ideas directly into the soul of his audience, as it were (275D4-276A9); and that (4) a serious author would never consign his important ideas to a medium that can carry them only transiently but like a serious farmer planting precious seeds will choose his soil and the time of his planting rather than force his seeds in pots (276B1-C5), so that (5) whatever writing he would do would not be for the sake of producing an immortal reputation for himself (cf.258C) but for the sake of play and as mere reminder (276C7-D8). Phaedrus approves these arguments against relying on writing, and does so with increasing enthusiasm.<text:note text:id="ftn1579" text:note-class="footnote">
+         <text:p text:style-name="P246">The distinction between writing and live speech or conversation arises early in the <text:span text:style-name="T6">Phaedrus</text:span> but neither the distinction nor the relative merits of the two is thematized until much later, when Phaedrus begins the dialogical section by evading the prayer Socrates had made at the end of his great speech and suddenly alleges that Lysias is reluctant to write anything because some nameless politician has criticized him for being a mere speechwriter. <text:s/>Even there, however, Socrates denies that writing is <text:span text:style-name="T6">eo ipso</text:span> reproachable, even to the politician, though surely writing and speaking <text:span text:style-name="T6">badly</text:span> would be. Thus he steers the conversation to the question what makes writing or speaking good or bad. Once they have decided this question, however, Socrates does revert to the prior question about whether writing itself is reprehensible, and argues, in terms that arose in the course of the conversation on good or bad composition in general, that a person's choice to consign his thoughts to writing instead of speaking them live will disserve the audience by (1) encouraging them to rely upon writing rather than their memory; and (2) leaving them with the belief they can retrieve the ideas by reading when they will not be able to unless they understood them in the first place (274C5-275B2); and that (3) the experience of reading will stimulate in the reader a natural desire to converse with the author live, whether for clarification or elaboration, that will of course be disappointed, unless the author can write his ideas directly into the soul of his audience, as it were (275D4-276A9); and that (4) a serious author would never consign his important ideas to a medium that can carry them only transiently but like a serious farmer planting precious seeds will choose his soil and the time of his planting rather than force his seeds in pots (276B1-C5), so that (5) whatever writing he would do would not be for the sake of producing an immortal reputation for himself (cf.258C) but for the sake of play and as mere reminder (276C7-D8). Phaedrus approves these arguments against relying on writing, and does so with increasing enthusiasm.<text:note text:id="ftn1579" text:note-class="footnote">
                <text:note-citation>1579</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -21126,10 +21133,10 @@
                </text:note-body>
             </text:note> Finally Socrates uses them as a basis for contrasting the man who does choose to write despite the shortcomings with the man who prefers live conversation, in a climactic passage that culminates with Phaedrus now accepting the prayer he had evaded to recognize at the beginning of the dialogical section (277D6-278B6).</text:p>
          <text:p text:style-name="P246">
-            <text:s/>This final comparison articulates the conclusion which the entire criticism of writing was designed to reach, namely, the reason that Phaedrus should abandon the Lysianic pursuit of speechwriting with which he had busied himself all morning and should devote himself instead to the Socratic sort of conversation in which he has since been engaged. <text:s/>A person who writes deserves reproach if he thinks that the mere writing up of something gives it the solidity or substantiality that only live argument can achieve, since the reproach a man deserves for neglecting the important topics <text:soft-page-break/>of beauty, goodness, and justice will never be compensated by the praise his writings may garner from the masses. Conversely, the man who views whatever he puts down in writing as mere play and thinks that its best and solidest worth is to remind a person of the justice, goodness and beauty he already understands within his soul, who rests his legacy on his best live arguments and the effect those arguments will have in other souls that will make their own arguments in turn, and kisses off leaving behind written tomes with his name on the cover – such a man, Phaedrus, I suspect that you and I would pray and hope each other would prefer to be!</text:p>
-         <text:p text:style-name="P246">The limitations of writing become grounds for reproach only in this last comparison, which envision a man who prefers to write for the praise of a mass audience over participating in substantial <text:s/>discussion, one-on-one. There is of course no <text:span text:style-name="T6">essential</text:span> contradiction between these, for a given person could do both, and writing is not in itself reproachable if the writer recognizes the limitations of the medium and maintains his respect and reverence for the prior duty of serious study. On the next and final page of the conversation Socrates moves on to suggest that while the person of lesser devotion may as well be named after the kind of writing he leaves behind, whether playwright or law-maker or speechwriter, the person who recognizes the weakness of all writings, his own included, and would prefer to expound their substance live, should get a different name – and since he loves wisdom more than the fame that might redound to him as a writer that name should be philosopher, lover of wisdom. </text:p>
-         <text:p text:style-name="P246">The critique of writing is invented by Socrates in order to drive a wedge between Phaedrus and his foolish enthusiasm for the sort of Lysianic trickery by which a young beauty might be persuaded to gratify a man who claims not to love him. Indeed this was Socrates's motive for turning the conversation away from politician's critique of Lysias with which it began, and toward the discussion of good and bad composition instead, so that he could contrast honest thinking and talking with the toxic grab-bag of the “rhetoricians,” and arouse thereby the more philosophical elements he knows to be present in Phaedrus's nature so that in the end he could in good conscience choose philosophy for his own edification over the self-forgetting manipulation of a crowd. </text:p>
-         <text:p text:style-name="P246">It is already questionable whether Socrates has any continuing brief against writing, beyond the special argument it enables him to bring for the purpose of converting Phaedrus to his best interest, and now to ask whether “Plato” in addition to the Socrates of the <text:span text:style-name="T6">Phaedrus</text:span> holds a similar brief against writing (as if Shakespeare too, wishes that his too too solid flesh might melt) becomes something more of a reach, but for all the reach we have to hazard, the question becomes attractive for another reason: Plato, as opposed to Socrates did decide to write.<text:note text:id="ftn1580" text:note-class="footnote">
+            <text:s/>This final comparison articulates the conclusion which the entire criticism of writing was designed to reach, namely, the reason that Phaedrus should abandon the Lysianic pursuit of speechwriting with which he had busied himself all morning, and should devote himself instead to the Socratic sort of conversation in which he has since been engaged. <text:s/>A person who writes deserves reproach if he thinks that the mere writing-up of something gives it the solidity or substantiality that only live argument can achieve, since the reproach a man deserves for neglecting the important topics <text:soft-page-break/>of beauty, goodness, and justice will never be compensated by the praise his writings may garner from the masses. Conversely, the man who views whatever he puts down in writing as mere play and thinks that its best and solidest worth is to remind a person of the justice, goodness and beauty he already understands within his soul, who rests his legacy on his best live arguments and the effect those arguments will have in other souls that will make their own arguments in turn, and kisses off leaving behind written tomes with his name on the cover – such a man, Phaedrus, I suspect that you and I would pray and hope each other would prefer to be!</text:p>
+         <text:p text:style-name="P246">The limitations of writing become grounds for reproach only in this last comparison, which envisions a man who prefers to write for the praise of a mass audience over participating in substantial discussion, one-on-one. There is of course no <text:span text:style-name="T6">essential</text:span> contradiction between these, for a given person could do both, and writing is not in itself reproachable if the writer recognizes the limitations of the medium and maintains his respect and reverence for the prior duty of serious study. On the next and final page of the conversation Socrates moves on to suggest that while the person of lesser devotion may as well be named after the kind of writing he leaves behind, whether playwright or law-maker or speechwriter, the person who recognizes the weakness of all writings, his own included, and would prefer to expound their substance live, should get a different name – and since he loves wisdom more than the fame that might redound to him as a writer that name should be philosopher, lover of wisdom. </text:p>
+         <text:p text:style-name="P246">The critique of writing is invented by Socrates in order to drive a wedge between Phaedrus and his foolish enthusiasm for the sort of Lysianic trickery by which a young beauty might be persuaded to gratify a man who claims not to love him. Indeed this was Socrates's motive for turning the conversation away from politician's critique of Lysias with which Phaedrus began it, and toward the discussion of good and bad composition instead, so that he could contrast honest thinking and talking with the toxic grab-bag of the “rhetoricians,” and arouse thereby the more philosophical elements he knows to be present in Phaedrus's nature so that in the end he could in good conscience choose philosophy for his own edification over the self-forgetting manipulation of a crowd. </text:p>
+         <text:p text:style-name="P246">It is therefore already questionable whether Socrates has any continuing brief against writing, beyond the special argument it enables him to bring for the purpose of converting Phaedrus to his best interest, so that moreover now to ask whether “Plato” in addition to the Socrates of the <text:span text:style-name="T6">Phaedrus</text:span> holds a similar brief against writing (as if Shakespeare too, wishes that his too too solid flesh might melt) becomes something more of a reach – but for all the reach we have to hazard, the question becomes attractive for another reason: Plato, as opposed to Socrates did decide to write.<text:note text:id="ftn1580" text:note-class="footnote">
                <text:note-citation>1580</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -21146,7 +21153,7 @@
                      <text:s/>The scenario of writer and the politician that is his client is eloquently revealed in the pamphlet of Alcidamas; a good treatment in English is K.J.Dover's <text:span text:style-name="T6">Lysias and the </text:span>
                      <text:span text:style-name="T8">Corpus Lysiacum</text:span> (Berkeley, 1968).</text:p>
                </text:note-body>
-            </text:note> but within its four corners the critique faults a different kind of writing – didactic writing to be read by individuals, rather than persuasive speeches – for it is their didactic shortcomings and their effects on the cognitive powers of their readers as students that are criticized, in contrast with the didactic and pedagogical virtues of live conversation. Socrates's strategy in adopting an investigation of rhetoric or good composition was to reveal shortcomings in the teaching of Lysianic rhetoric that an ideal method of composition could be shown to overcome, which ideal method would actually end up being philosophical conversation. In order to facilitate the comparison and the overcoming, the kind of writing under analysis shifted from speechwriting to the didactic, and now we are faced with the <text:soft-page-break/>unforeseen outcome that the very author of the story who conceived of this interesting dialogical strategy or plot from the inside out, can come under the criticism from the outside in by the very creature he created!</text:p>
+            </text:note> but within its four corners the critique faults a different kind of writing – didactic writing to be read by individuals, rather than persuasive speeches – for it is the didactic shortcomings of such speeches and their effects on the cognitive powers of their readers as students that are criticized, in contrast with the didactic and pedagogical virtues of live conversation. Socrates's strategy in adopting an investigation of rhetoric or good composition was to reveal shortcomings in the teaching of Lysianic rhetoric that an ideal method of composition could be shown to overcome, which ideal method would actually end up being philosophical conversation. In order to facilitate the comparison and the overcoming, the kind of writing under analysis shifted from speechwriting to the didactic, and now we <text:soft-page-break/>are faced with the unforeseen outcome that the very author of the story who conceived of this interesting dialogical strategy or plot from the inside out, can come under the criticism from the outside in by the very creature he created!</text:p>
          <text:p text:style-name="P246">We must “come in closer” with this argument as Socrates says.<text:note text:id="ftn1582" text:note-class="footnote">
                <text:note-citation>1582</text:note-citation>
                <text:note-body>
@@ -21155,7 +21162,7 @@
                         <text:s/>ὁμόσε ἰέναι</text:span>, <text:span text:style-name="T6">Euthyd</text:span>.294D, <text:span text:style-name="T6">Rep</text:span>.610C6 – the expression is also used by Euthyphro (<text:span text:style-name="T6">Euthyph</text:span>.3C5).</text:p>
                </text:note-body>
             </text:note> 
-            <text:s/>If written didactic works are, indeed, to to be criticized, shall Plato's own <text:span text:style-name="T6">Phaedrus</text:span> come in for the criticism, too? Does the <text:span text:style-name="T6">Phaedrus</text:span> attempt to teach, and if so, how? On the surface (once again) it is a drama consisting of conversation, and the action takes place within the shared horizon of its characters, Socrates and Phaedrus. We see Phaedrus learning a lesson, and so we learn something, too. The lesson includes the insight that the didactic powers of writing are inferior to those of spoken conversation, from which Socrates infers a further criticism, that the choice to write for fame is inferior to the choice to converse about important subjects for the sake of learning. As to this second criticism we cannot apply the reproach to Plato himself, since he may in addition to writing his dialogues have spent his best time in live conversation. But whether his works are vulnerable to the first, the criticism of writing <text:span text:style-name="T6">per se</text:span>, depends on the questions whether his writings do indeed (1) seduce us into a detrimental reliance on our memories, or (2) give us the sense that we know something because we can look it up, or (3) stimulate us with a desire to engage the text in a conversation but then leave us high and dry, or (4) plant seeds of ideas into our minds as if they were flowerpots in which a conclusion or lesson is reached too quickly and without proper preparation rather than (5) engaging us in a play of suggestion to help us recall what we already know of the good and the just and the beautiful. </text:p>
+            <text:s/>If written didactic works are, indeed, to be criticized, shall Plato's own <text:span text:style-name="T6">Phaedrus</text:span> come in for the criticism, too? Does the <text:span text:style-name="T6">Phaedrus</text:span> attempt to teach, and if so, how? On the surface (once again) it is a drama consisting of conversation, and the action takes place within the shared horizon of its characters, Socrates and Phaedrus. We see Phaedrus learning a lesson, and so we learn something, too. The lesson includes the insight that the didactic powers of writing are inferior to those of spoken conversation, from which Socrates infers a further criticism, that the choice to write for fame is inferior to the choice to converse about important subjects for the sake of learning. As to this second criticism we cannot apply the reproach to Plato himself, since he may in addition to writing his dialogues have spent his best time in live conversation. But whether his works are vulnerable to the first, the criticism of writing <text:span text:style-name="T6">per se</text:span>, depends on the questions whether his writings do indeed (1) seduce us into a detrimental reliance on our memories, or (2) give us the sense that we know something because we can look it up, or (3) stimulate us with a desire to engage the text in a conversation but then leave us high and dry, or (4) plant seeds of ideas into our minds as if they were flowerpots in which a conclusion or lesson is reached too quickly and without proper preparation rather than (5) engaging us in a play of suggestion to help us recall what we already know of the good and the just and the beautiful. </text:p>
          <text:p text:style-name="P246">On the basis of the foregoing commentary I would say that none of these criticisms seems to apply – not to the <text:span text:style-name="T6">Phaedrus</text:span>
             <text:span text:style-name="T19">, at least</text:span>! Take for instance the fifth and remember the anamnetic effect of the Socrates's playful myth.<text:note text:id="ftn1583" text:note-class="footnote">
                <text:note-citation>1583</text:note-citation>
@@ -21169,7 +21176,7 @@
                   <text:p text:style-name="Footnote">
                      <text:s/>Many readers in fact think Plato is trying to communicate with them indirectly, from beneath the surface or behind the screen of the conversation. To whatever extent this is true his dialogical writings are not subject to this third criticism. </text:p>
                </text:note-body>
-            </text:note> As to the second, we again become so engaged in the process of the argument between Socrates and Phaedrus that there was nothing by way of information to look up. Instead we come away realizing that if anything we should read the dialogue again so as better to grasp the dialogical curve that led to the conclusion. <text:s/>On the first criticism, about memory, we again have the ambiguous role of memory to deal with. Every reader of Plato has experienced the feeling that the problems that come up are problems he has already thought of, problems already relevant to his own life, but nobody I think comes away with the sense that he can place the book on the shelf as a kind of encyclopedia of answers to those questions, but rather comes away with the sense that if he should take the trouble of navigating his way through the conversation all over again he would only come up with a richer interpretation. </text:p>
+            </text:note> As to the second, we again become so engaged in the process of the argument between Socrates and Phaedrus that there was nothing by way of information to look up. Instead we come away realizing that if anything we should read the dialogue again so as better to grasp the dialogical curve that led to the conclusion. <text:s/>On the first criticism, about memory, we again have the ambiguous role of memory to deal with. Every reader of Plato has experienced the feeling that the problems that come up are problems he has already thought of, problems already relevant to his own life, but nobody I think comes away with the sense that he can reach to the book on his shelf as a kind of encyclopedia of answers to those questions, but rather comes away with the sense that if he should take the trouble of navigating his way through the conversation all over again he would only come up with a richer interpretation. </text:p>
          <text:p text:style-name="P246">On the surface, then, neither Plato nor his writing appears to be vulnerable to the criticisms <text:s/>– at least in the case of the <text:span text:style-name="T6">Phaedrus</text:span> as we have interpreted it above – but rather than wade farther into the controversy I will take the opportunity to go back and garner the results we have reached in that reading and leave it to others to weigh their relevance to the dispute. <text:span text:style-name="T62">If Plato is teaching something in </text:span>
             <text:soft-page-break/>
             <text:span text:style-name="T62">the </text:span>
@@ -21182,7 +21189,7 @@
                   <text:note-body>
                      <text:p text:style-name="Footnote">
                         <text:s/>
-                        <text:span text:style-name="T9">πείθετε</text:span>, 261A4. We shall see that this term undergoes a change of meaning within the argument (cf. n.).</text:p>
+                        <text:span text:style-name="T9">πείθετε</text:span>, 261A4. We shall see that this term undergoes a change of meaning within the argument (cf. n.<text:note-ref text:note-class="footnote" text:reference-format="text" text:ref-name="ftn874">874</text:note-ref>).</text:p>
                   </text:note-body>
                </text:note>
             </text:span>
@@ -21192,14 +21199,14 @@
          </text:p>
          <text:p text:style-name="P246"/>
          <text:p text:style-name="P245"/>
-         <text:list xml:id="list600095978" text:style-name="L7">
+         <text:list xml:id="list1007704468" text:style-name="L7">
             <text:list-item>
                <text:list>
                   <text:list-item>
                      <text:list>
                         <text:list-item>
-                           <text:p text:style-name="P269">SETTING THE QUESTION</text:p>
-                           <text:p text:style-name="P269"/>
+                           <text:p text:style-name="P263">SETTING THE QUESTION</text:p>
+                           <text:p text:style-name="P263"/>
                         </text:list-item>
                      </text:list>
                   </text:list-item>
@@ -21222,7 +21229,7 @@
             </text:note> only to dismiss the issue and take up the matter of <text:span text:style-name="T6">Lysias's</text:span> reaction to the speech is if that were more important than his own. In particular (he goes on to say) Lysias may no longer be willing to mount a counter-speech to compete with it (though Phaedrus assured Socrates, an hour ago, that he could convince him to) since Lysias had come under criticism for being a hack (though this according to Phaedrus happened some days before), the critic constantly calling him a “<text:span text:style-name="T6">speechwriter</text:span>.” <text:s/>Even the criticism is only tangentially relevant to Lysias's putative reluctance to write or compose a speech on divine love, for according to Phaedrus a <text:span text:style-name="T6">politician</text:span> was lambasting Lysias for being “<text:span text:style-name="T6">pedestrian</text:span>” and made his point by taunting him for being a “<text:span text:style-name="T6">speechwriter</text:span>.” All that really can be gleaned from his reply is his sense that Socrates's speech was so great it would put anything into the shade. But then why continue to waver?</text:p>
          <text:p text:style-name="P242">We are at this moment eager to hear Socrates's response, thinking he will get Phaedrus to answer the questions that have arisen in our own minds, but in fact his response does not help to clear up those questions at all: “My dear Phaedrus don't tell me you really think your man Lysias would be spooked by such name-calling. Besides, are you so naïve as to think the politician actually <text:span text:style-name="T6">believes</text:span> that speechwriting is a bad thing to do?” Socrates begins to suggest that they should drop the idea <text:soft-page-break/>that Lysias would be hesitant because of the criticism and threatens thereby to undo the evasion Phaedrus has interposed and push back to the fact of his evasiveness and his wavering; but in the next moment, even he chooses to pursue the less relevant matter of the politician who brought the criticism, in order to question his sincerity in acting as though speechwriting were a bad thing, moving both himself and Phaedrus even further from the question, and even past Lysias, so as to cancel forever the question of his evasiveness. Phaedrus can reply, <text:s/>“You have to admit the politicians are always calling people sophists who are seen trying to make a name for themselves by leaving behind written works” <text:s/>– <text:s/>to which Socrates responds with a proverb: <text:s/>“Again you show your naivete, Phaedrus, as if you would also believe that the notorious “Easy Bend” in the Nile is actually easy when in fact it is treacherous. Just look at the politician: he is always trying to curry favor with his sponsors by mentioning their names in his writing, whatever the occasion, only in order to commemorate his own name therein.” <text:s/>
          </text:p>
-         <text:p text:style-name="P242">Phaedrus, and we, have no idea what Socrates is talking about; in fact we have our hands full trying to keep up with the conversation these two are having. <text:s/>Just as a moment ago we were looking at Phaedrus over the shoulder of Socrates, thinking he would ask Phaedrus to clear up his remark about Lysias, we are now looking over Phaedrus's shoulder at Socrates, waiting for him to clarify what he is saying about the politicians: “What do you mean by that – I don't get it,” says he. <text:s/>Who after all are these “sponsors?” and what is the spectrum of “occasions” to which Socrates alludes? And what in the world are the “writings”? After all this politician had given us to believe that writers are mere scribblers rather than doers.</text:p>
+         <text:p text:style-name="P242">Phaedrus, and we, have no idea what Socrates is talking about; in fact we have our hands full trying to keep up with the conversation these two are having. <text:s/>Just as a moment ago we were looking at Phaedrus over the shoulder of Socrates, thinking he would ask Phaedrus to clear up his remark about Lysias, we are now looking over Phaedrus's shoulder at Socrates, watching whether he will clarify what he is saying about the politicians: “What do you mean by that – I don't get it,” says he. <text:s/>Who after all are these “sponsors?” and what is the spectrum of “occasions” to which Socrates alludes? And what in the world are the “writings”? After all this politician had given us to believe that writers are mere scribblers rather than doers.</text:p>
          <text:p text:style-name="P242">Socrates delivers a retort that does not clear things up: “You 'don't get it' that at the beginning of a politician's written brief the name of his sponsor is written in?” This restatement in tighter language suggests that he is telling a riddle, and Phaedrus replies by giving up trying to solve it: “How do you mean?”</text:p>
          <text:p text:style-name="P242">Only now does Socrates reveal what he has been “saying.” <text:s/>The mover and shaker wants the assembly or the counsel (the legal venues constitute the “occasions”) to pass a law that will have his name written into it (like the “Taft-Hartley” Act), and in fact the way laws were worded was to begin with the formula, “Resolved by the deme...” or “Resolved by the council.” In this sense the persons who acquiesce in the politician's motion (the members of the deme or of the counsel are his “sponsors”) are “written in” at the very beginning. In a warped but literal sense it is true that the man making the motion is hoping to achieve enduring fame with a written screed, though the politician will proudly distinguish himself from a mere speechwriter by claiming that it was his live eloquence rather than the bought and paid for writing he held in his hand that won the day.</text:p>
          <text:p text:style-name="P242">We could barely keep up with this riddling byplay of Socrates.<text:note text:id="ftn1588" text:note-class="footnote">
@@ -21324,9 +21331,9 @@
                <text:note-citation>1598</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
-                     <text:s/>Cf. n.***.</text:p>
+                     <text:s/>Cf. n.<text:note-ref text:note-class="footnote" text:reference-format="text" text:ref-name="ftn862">862</text:note-ref>.</text:p>
                </text:note-body>
-            </text:note> and therefore Madame Techne's tone is emphatic. But perhaps the lady doth protest too much. Indeed Socrates (and Phaedrus in response to him) will use this expression fifteen more times in the rest of the dialogue, while the total occurrences in all of classical literature outside the dialogue amount to less than ten. The term <text:span text:style-name="T9">τέχνη</text:span> has a laudatory connotation, just as “being an <text:span text:style-name="T6">artist</text:span>” may in our own times. About its real denotation Phaedrus is at first less aware and attuned, for he does not recognize that the attributes Socrates suggests for the rhetorical art a few lines below (261A8-B2) belong by definition to any art <text:span text:style-name="T6">qua</text:span> art. Socrates's immediate reply to Madame Techne throws down the gauntlet: <text:s/>'I would agree that she is indispensable for persuading “artfully,” if indeed it is “artfully” that she enables a person to speak' (260E2-3).</text:p>
+            </text:note> and therefore Madame Techne's tone is emphatic. But perhaps the Lady doth protest too much. Indeed Socrates (and Phaedrus in response to him) will use this expression fifteen more times in the rest of the dialogue, while the total occurrences in all of classical literature outside the dialogue amount to less than ten. The term <text:span text:style-name="T9">τέχνη</text:span> has a laudatory connotation, just as “being an <text:span text:style-name="T6">artist</text:span>” may in our own times. About its real denotation Phaedrus is at first less aware and attuned, for he does not recognize that the attributes Socrates suggests for the rhetorical art a few lines below (261A8-B2) belong by definition to any art <text:span text:style-name="T6">qua</text:span> art. Socrates's immediate reply to Madame Techne throws down the gauntlet: <text:s/>'I would agree that she is indispensable for persuading “artfully,” if indeed it is “artfully” that she enables a person to speak' (260E2-3).</text:p>
          <text:p text:style-name="P242">Phaedrus's failure to see that Socrates's suggestions are axiomatically true (e.g. that rhetoric <text:span text:style-name="T6">as an art</text:span> would help persuade in any context, not just public venues), requires Socrates to prove them to him in terms he already knows. He compares the <text:span text:style-name="T9">Τέχναι</text:span> (here the term has its third, idiomatic meaning, denoting treatises on speeches,<text:note text:id="ftn1599" text:note-class="footnote">
                <text:note-citation>1599</text:note-citation>
                <text:note-body>
@@ -21365,7 +21372,7 @@
                <text:note-citation>1603</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
-                     <text:s/>Parallel to the “dialectical evolution” of the term techne we have an evolution in the sense of <text:span text:style-name="T9">πειθώ</text:span> and its cognates, again beginning with the usage Phaedrus “has heard” (260A3) from the likes of Madame Techne (<text:span text:style-name="T9">πείθειν τέχνῃ</text:span>, 260D9), where persuasion consisted of causing a person to believe something regardless of its truth (illusionism, essentially: 261C10-262C4), through a use by the indisputable oratorical master Pericles that dissociates it from the school techniques by associating persuasive power with organization of the speech into a whole (269C2-3) rather than the mere deployment of technEmata (269B7), to an extremely pointed sense at the very edge of its semantic field that is generated by an analogy between a higher Periclean “rhetorical art” and medical art (270B1-9), according to which just as drugs and nutrition are prescribed by the medical art for the sake of instilling health and strength, lessons and lawful activities (logous kai epitheuseis nomimous) are prescribed by this rhetorical art to instill conviction and virtue (peithO … kai aretEn): 270B4-9.<text:span text:style-name="T9"> πειθώ</text:span> is now acquiescence in salubrious truth rather than a subjective state of mind effectuated by the illusionisms of rhetoric, disconnected from truth. The analogy, which is the sole justification for the new meaning, comes as a complete surprise.</text:p>
+                     <text:s/>Parallel to the “dialectical evolution” of the term <text:span text:style-name="T9">τέχνη</text:span> we have an evolution in the sense of <text:span text:style-name="T9">πειθώ</text:span> and its cognates, again beginning with the usage Phaedrus “has heard” (260A3) from the likes of Madame Techne (<text:span text:style-name="T9">πείθειν τέχνῃ</text:span>, 260D9), where persuasion consisted of causing a person to believe something regardless of its truth (illusionism, essentially: 261C10-262C4), through a use by the indisputable oratorical master Pericles that dissociates it from the school techniques by associating persuasive power with organization of the speech into a whole (269C2-3) rather than the mere deployment of <text:span text:style-name="T9">τεχνήματα</text:span> (269B7), to an extremely pointed sense at the very edge of its semantic field that is generated by an analogy between a higher Periclean “rhetorical art” and medical art (270B1-9), according to which just as drugs and nutrition are prescribed by the medical art for the sake of instilling health and strength, lessons and lawful activities (<text:span text:style-name="T9">λόγους τε καὶ ἐπιτηδεύσεις νομίμους</text:span>) are prescribed by this rhetorical art to instill conviction and virtue (<text:span text:style-name="T9">πειθὼ … καὶ ἀρετὴν</text:span>): 270B4-9.<text:span text:style-name="T9"> πειθώ</text:span> is now acquiescence in salubrious truth rather than a subjective state of mind effectuated by the illusionisms of rhetoric, disconnected from truth. The analogy, which is the sole justification for the new meaning, comes as a complete surprise.</text:p>
                </text:note-body>
             </text:note>
          </text:p>
@@ -21408,8 +21415,8 @@
                      <text:s/>The first one having failed since Socrates's basic suggestion of what good argument should be nature be contravenes what Phaedrus had “heard.”</text:p>
                </text:note-body>
             </text:note> and this time Phaedrus is enough engaged in the give-and-take, even if only in play, that as we saw he can be brought along to agree that forensics resembles the antilogy of Zenonian paradox, and then can follow the extension of this argument into the discovery that a forensic orator does need knowledge of the truth after all in order to hoodwink his audience rather than himself (261E3-262C4). </text:p>
-         <text:p text:style-name="P240">It is, moreover, an index of the dramatic curve of the whole passage that several pages later, after the two of them have discovered a real art of argumentation, and Socrates alludes to that position Phaedrus had heard and now will countenance it as a counter-claim from a devil's advocate, that Phaedrus is barely willing to own up to having introduced that position himself at the beginning of the conversation, and by this time Socrates is able to call him on his evasiveness in no uncertain terms, admonishing him to look at that dog-eared copy of Tisias he has if he wants consult the position in detail (272A10-273B1). But forgoing to confront Phaedrus, Socrates now instead addresses Tisias personally, the author of the dog-eared book, while Phaedrus who dog-eared it watches. Socrates can <text:soft-page-break/>now tell Tisias that <text:span text:style-name="T6">Phaedrus and he</text:span> have achieved in their dialogue a position that goes far beyond his petty techniques of argumentation from likelihood (273D2-274A5), and he does so with a high eloquence that elicits nothing less than wholehearted agreement from Phaedrus (<text:span text:style-name="T9">παγκάλως</text:span>, 274A6), who is now his full partner in the investigation.</text:p>
-         <text:p text:style-name="P240">Here we find another special use for the imaginary interlocutor in mediation, namely, to play the role of a third person set opposite Socrates and Phaedrus so as to draw them together as an allied pair. It happens three times. First, they are <text:span text:style-name="T6">both</text:span> upbraided by Pericles for being perhaps too crass in their criticism of art (269A5-C5); here they appear as a pair of triumphant soldiers on a divine mission that puts Tisias to shame; and soon, at the climactic moment when Phaedrus actually embraces the conclusion they have reached about the true art of argumentation, they are treated as a pair by the unnamed objector who truculently challenges whether things are the way they say the are simply because they say so.<text:note text:id="ftn1609" text:note-class="footnote">
+         <text:p text:style-name="P240">It is, moreover, an index of the dramatic curve of the whole passage that several pages later, after the two of them have discovered a real art of argumentation, and Socrates alludes to that position Phaedrus had heard and now will countenance it as a counter-claim from a devil's advocate, that Phaedrus is barely willing to own up to having introduced that position himself at the beginning of the conversation, and by this time Socrates is able to call him on his evasiveness in no uncertain terms, admonishing him to look at that dog-eared copy of Tisias he has if he wants consult the position in detail (272A10-273B1). But forgoing to confront Phaedrus, Socrates now instead addresses Tisias personally, the author of the dog-eared book, while Phaedrus who dog-eared it watches. Socrates can <text:soft-page-break/>now tell Tisias that <text:span text:style-name="T6">Phaedrus and he</text:span> have achieved in their dialogue a position that goes far beyond his petty techniques of argumentation from likelihood (273D2-274A5), and he does so with a high eloquence that elicits nothing less than wholehearted agreement from Phaedrus (<text:span text:style-name="T9">παγκάλως</text:span>, 274A6), who has now become his full partner in the investigation.</text:p>
+         <text:p text:style-name="P240">Here we find another special use for the imaginary interlocutor in mediation, namely, to play the role of a third person set opposite Socrates and Phaedrus so as to draw them together as an allied pair. It happens three times. First, they are <text:span text:style-name="T6">together</text:span> upbraided by Pericles for being perhaps too crass in their criticism of art (269A5-C5); here they appear as a pair of triumphant soldiers on a divine mission that puts Tisias to shame; and soon, at the climactic moment when Phaedrus actually embraces the conclusion they have reached about the true art of argumentation, they are treated as a pair by the unnamed objector who truculently challenges whether things are the way they say the are simply because they say so.<text:note text:id="ftn1609" text:note-class="footnote">
                <text:note-citation>1609</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">
@@ -21453,7 +21460,7 @@
                </text:note-body>
             </text:note> even if his performance should be less than sterling (228B6-C1). <text:s/>
          </text:p>
-         <text:p text:style-name="P240">We have extraordinary evidence that this is what was going on inside Phaedrus, namely, Socrates's guesswork at 228AC (“If I don't know my Phaedrus I don't know myself …,”), itself a unique event in the broad spectrum of events that occur in the <text:span text:style-name="T6">Dialogues</text:span>. <text:s/>At the end of that passage there are in fact two Phaedruses, the one Socrates is talking about (<text:span text:style-name="T9">αὐτοῦ</text:span>, 228C4) and the one he is addressing (<text:span text:style-name="T9">σύ</text:span>, 228C3). It is not going too far to say that at this moment Phaedrus himself becomes something of an imaginary interlocutor! And conversely we may say that at the end of the dialogue there are two Phaedruses again, the one who began as a partisan of the manipulative rhetoric identified only at the end with Tisias (273A6-B1),<text:note text:id="ftn1614" text:note-class="footnote">
+         <text:p text:style-name="P240">We have extraordinary evidence that this is what was going on inside Phaedrus, namely, Socrates's guesswork at 228AC (“If I don't know my Phaedrus I don't know myself …,”), itself a unique event in the broad spectrum of events that occur in all the <text:span text:style-name="T6">Dialogues</text:span>. <text:s/>At the end of that passage there are in fact two Phaedruses, the one Socrates is talking about (<text:span text:style-name="T9">αὐτοῦ</text:span>, 228C4, third person) and the one he is addressing (<text:span text:style-name="T9">σύ</text:span>, 228C3, second person). It is not going too far to say that at this moment Phaedrus himself becomes something of an imaginary interlocutor! And conversely we may say that at the end of the dialogue there are two Phaedruses again, the one who began as a partisan of the manipulative rhetoric identified only at the end with Tisias (273A6-B1),<text:note text:id="ftn1614" text:note-class="footnote">
                <text:note-citation>1614</text:note-citation>
                <text:note-body>
                   <text:p text:style-name="Footnote">Now he will be heard, despite the fact that Phaedrus has rejected his thesis, because even the <text:span text:style-name="T6">devil's advocate</text:span> deserves a hearing (272C10-11), though originally he deserved a hearing on the presumption that being Phaedrus's expert he must be a <text:span text:style-name="T6">wise man</text:span> (260A5-7)!</text:p>
@@ -21465,10 +21472,9 @@
          <text:p text:style-name="P239">
             <text:span text:style-name="T52">Phaedrus's need for the mediation of imaginary interlocutors is deeply entwined with the overall theme of the dialogue, the choice he must make to speak on his own feet or to hide in a garret writing speeches for others to deliver in the real world of danger and </text:span>
             <text:span text:style-name="T41">καιρός</text:span>
-            <text:span text:style-name="T52">, a choice richly illustrated by and analogous to the lover's choice to confess his love to the beloved and pursue it for all it is worth as opposed to playing the predatory wallflower who prefers to operate at a distance because he only remembers the painful torments of love's somatic dimension and the dialectic of possessor and possessed – the love horizon of the first two Speeches. What brings the two themes together is that to pursue divine Eros is to adopt the faith that one is thereby refurbishing the wings of his soul so as to return to the gods, and that that pursuit, in its highest and strongest and most rewarding form in this life, consists exactly in the philosophical exchanges of teaching and learning such as we witnessed in the second part of the dialogue, we and also the cicadas above who will </text:span>
+            <text:span text:style-name="T52">, a choice richly illustrated by and analogous to the lover's choice to confess his love to the beloved and pursue it for all it is worth as opposed to playing the predatory wallflower who prefers to operate at a distance because he only remembers the painful torments of love's somatic dimension and the dialectic of possessor and possessed – the love horizon of the first two Speeches. What brings the two themes together is that to pursue divine Eros is to adopt the faith that one is thereby refurbishing the wings of his soul so as to return to the gods, and that that pursuit, in its highest and strongest and most rewarding form in this life, consists exactly in the philosophical exchanges of teaching and learning of the sort we witnessed in the second part of the dialogue, we and also the cicadas above who will </text:span>
             <text:soft-page-break/>
-            <text:span text:style-name="T52">return a favorable report to the Muses about how Socrates and Phaedrus have spent their afternoon, </text:span>
-            <text:span text:style-name="T52">and particularly to Calliope, she of the fine speeches,</text:span>
+            <text:span text:style-name="T52">return a favorable report to the Muses about how Socrates and Phaedrus have spent their afternoon, and particularly to Calliope, she of the fine speeches,</text:span>
             <text:span text:style-name="T52">
                <text:note text:id="ftn1615" text:note-class="footnote">
                   <text:note-citation>1615</text:note-citation>
@@ -21482,9 +21488,9 @@
          </text:p>
          <text:p text:style-name="P240"/>
          <text:p text:style-name="P249">4. CONCLUSION</text:p>
-         <text:p text:style-name="P249">This review of Socrates's techniques for persuading Phaedrus, which as we claimed at the beginning are nothing more and nothing less than Plato's techniques for teaching his reader, shows the <text:span text:style-name="T6">Phaedrus</text:span> in which Plato depicts them to be largely immune to the derogation of live thought by its being written down that Socrates describes, in the course of persuading Phaedrus not to write, this derogation that infects the practice of the professional writer. A written logos, as a logos, can only be a version of a live logos of which the primary and paradigmatic form is thought itself, the dialogue of the soul with itself, and Plato's <text:span text:style-name="T6">Phaedrus</text:span> likewise proves to be a written version of the live teaching event that took place, though only in fiction, under a plane tree outside the southeastern gate of Athens one summer day, which its author and inventor depicts with a versimilitude and vividness achieved by no other author of dialogue before or since.</text:p>
-         <text:p text:style-name="P249">Its vividness and verisimilarity are predicated upon our finding Phaedrus's change of mind at the end credible; and the credibility of his change within the hour-long discussion that follows the speculative speeches relies largely on the mediations that Socrates provides for him, mediation between his Motives and the Question in which those motives can be explored at an arm's length, at first; the mediation of the language the two of them share and the semantic range of the words they use that harbor and enable changes of attitude sort of being self-contradictory; but perhaps most of all by the many voices and mindsets Socrates brings onto the stage, third persons that help to usher him and Phaedrus through a series of relationships to each other as they converse, which culminates in their conception of two individuals to whom they might return after they leave each other who embody the outlook of Phaedrus before they sat down under the tree and the person he could continue to be if, and to the extent that, they continue their relationship on the way back into the city. </text:p>
-         <text:p text:style-name="P249">The evidence that the logos though written is still alive, is the change readers still undergo from reading it.</text:p>
+         <text:p text:style-name="P249">This review of Socrates's techniques for persuading Phaedrus, which as we claimed at the beginning are nothing more and nothing less than Plato's techniques for teaching his reader, shows the <text:span text:style-name="T6">Phaedrus</text:span> in which Plato depicts them to be largely immune to the derogation of live thought by its being written down that Socrates describes, in the course of persuading Phaedrus not to write – this derogation that infects the practice of the professional writer. A written logos, as a logos, can only be a version of a live logos of which the primary and paradigmatic form is thought itself, the dialogue of the soul with itself, and Plato's <text:span text:style-name="T6">Phaedrus</text:span> likewise proves to be a written version of the live teaching event that took place, though only in fiction, under a plane tree outside the southeastern gate of Athens one summer day, which its author and inventor depicts with a versimilitude and vividness achieved by no other author of dialogue before or since.</text:p>
+         <text:p text:style-name="P249">Its vividness and verisimilarity are predicated upon our finding Phaedrus's change of mind at the end credible; and the credibility of his change within the hour-long discussion that followed the speculative speeches relies largely on the mediations that Socrates provides for him, mediation between his Motives and the Question in which those motives can be explored at an arm's length, at first; the mediation of the language the two of them share and the semantic range of the words they use that harbor and enable changes of attitude sort of being self-contradictory; but perhaps most of all by the many voices and mindsets Socrates brings onto the stage, third persons that help to usher him and Phaedrus through a series of relationships to each other as they converse, which culminates in their conception of two individuals to whom they might return after they leave each other who embody the outlook of Phaedrus before they sat down under the tree and the person he could continue to be if, and to the extent that, they continue their relationship on the way back into the city. </text:p>
+         <text:p text:style-name="P249">The evidence that the logos though written is still alive, is the change its Readers still undergo from reading it.</text:p>
          <text:p text:style-name="P248"/>
          <text:p text:style-name="P239"/>
          <text:p text:style-name="P134"/>
